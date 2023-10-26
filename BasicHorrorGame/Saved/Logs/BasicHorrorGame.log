@@ -2799,3 +2799,114 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.26-22.48.30:092][859]AssetCheck: New page: Asset Save: multiple assets
 [2023.10.26-22.48.30:093][859]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2023.10.26-22.48.30:093][859]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grabbables/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.10.26-22.51.51:998][345]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.10.26-22.51.52:050][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.10.26-22.51.52:054][345]PIE: Warning: Constraint in '/Engine/Transient.World_6:PersistentLevel.BP_PhysicsDoor_C_7.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.10.26-22.51.52:848][383]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_PhysicsDoor0D98448043D419553E81FEA445D417C3.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Grabbables/BP_PhysicsDoor.uasset'
+[2023.10.26-22.51.52:863][383]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.10.26-22.51.52:863][383]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grabbables/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.10.26-22.51.57:074][635]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.26-22.51.57:084][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.26-22.51.57:084][635]PIE: New page: PIE session: Level1 (Oct 26, 2023, 12:51:57 PM)
+[2023.10.26-22.51.57:084][635]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.26-22.51.57:088][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003290s)
+[2023.10.26-22.51.57:089][635]LogAIModule: Creating AISystem for world Level1
+[2023.10.26-22.51.57:089][635]LogPlayLevel: PIE: World Init took: (0.001711s)
+[2023.10.26-22.51.57:090][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005157s)
+[2023.10.26-22.51.57:118][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.10.26-22.51.57:120][635]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.10.26-22.51.57:120][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.26-22.51.57:120][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.26-22.51.57:120][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.26-22.51.57:120][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.26-22.51.57:120][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.26-22.51.57:120][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.26-22.51.57:120][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.26-22.51.57:120][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.26-22.51.57:121][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.26-22.51.57:121][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.26-22.51.57:121][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.26-22.51.57:121][635]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.26-22.51.57:124][635]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.26-22.51.57:124][635]LogAudioMixer: Display: 1: FrontRight
+[2023.10.26-22.51.57:150][635]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.26-22.51.57:150][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.26-22.51.57:150][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.26-22.51.57:150][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.26-22.51.57:152][635]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.26-22.51.57:152][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.26-22.51.57:152][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.26-22.51.57:152][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.26-22.51.57:152][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.26-22.51.57:152][635]LogInit: FAudioDevice initialized.
+[2023.10.26-22.51.57:152][635]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.10.26-22.51.57:165][635]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.26-22.51.57:166][635]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.26-17.51.57
+[2023.10.26-22.51.57:166][635]LogWorld: Bringing up level for play took: 0.000762
+[2023.10.26-22.51.57:166][635]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.10.26-22.51.57:169][635]PIE: Server logged in
+[2023.10.26-22.51.57:170][635]PIE: Play in editor total start time 0.089 seconds.
+[2023.10.26-22.52.00:942][861]LogBlueprintUserMessages: [BP_PhysicsDoor_2] Hit a grabbable object with left mouse button!
+[2023.10.26-22.52.01:676][905]LogBlueprintUserMessages: [BP_PhysicsDoor_2] Hit a grabbable object with left mouse button!
+[2023.10.26-22.52.02:093][930]LogBlueprintUserMessages: [BP_PhysicsDoor_2] Hit a grabbable object with left mouse button!
+[2023.10.26-22.52.02:375][947]LogBlueprintUserMessages: [BP_PhysicsDoor_2] Hit a grabbable object with left mouse button!
+[2023.10.26-22.52.09:060][348]LogBlueprintUserMessages: [BP_PhysicsDoor_2] Hit a grabbable object with left mouse button!
+[2023.10.26-22.52.09:244][359]LogBlueprintUserMessages: [BP_PhysicsDoor_2] Hit a grabbable object with left mouse button!
+[2023.10.26-22.52.09:444][371]LogBlueprintUserMessages: [BP_PhysicsDoor_2] Hit a grabbable object with left mouse button!
+[2023.10.26-22.52.10:590][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.26-22.52.10:590][438]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.26-22.52.10:590][438]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-22.52.10:590][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-22.52.10:599][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.26-22.52.10:607][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-22.52.10:632][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.26-22.52.10:633][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.26-22.52.10:634][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.26-22.52.10:660][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.26-22.52.10:664][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.10.26-22.52.10:690][439]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.10.26-22.52.25:336][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.26-22.52.25:368][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.10.26-22.52.25:380][980]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1792A18194CE5EB868906329EF3BC5EB2.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.26-22.52.25:394][980]LogFileHelpers: Saving map 'Level1' took 0.059
+[2023.10.26-22.52.25:415][980]AssetCheck: New page: Asset Save: Level1
+[2023.10.26-22.52.25:415][980]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:464][154]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.52.28:568][154]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.26-22.52.28:768][154]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_PhysicsDoor9C02515048F02A66E566809431A7CFCD.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Grabbables/BP_PhysicsDoor.uasset'
+[2023.10.26-22.52.28:768][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.26-22.52.28:800][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.10.26-22.52.28:812][154]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1ADD3F94B40E18076F0A4BD9AAD62E295.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.26-22.52.28:828][154]LogFileHelpers: Saving map 'Level1' took 0.059
+[2023.10.26-22.53.06:407][154]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.26-22.53.06:774][154]LogSourceControl: commit successful: [main 2e0c2cd] Added a debug print string to make sure BPI_Grab was implemented on BP_PhysicsDoor - AO
+[2023.10.26-22.53.06:907][154]SourceControl: [main 2e0c2cd] Added a debug print string to make sure BPI_Grab was implemented on BP_PhysicsDoor - AO
+[2023.10.26-22.53.06:907][154]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.26-22.53.06:919][154]SourceControl: Commited [main 2e0c2cd] Added a debug print string to make sure BPI_Grab was implemented on BP_PhysicsDoor - AO.
+[2023.10.26-22.53.06:950][155]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.26-22.53.06:950][155]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.26-22.53.06:950][155]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grabbables/BP_PhysicsDoor.BP_PhysicsDoor
