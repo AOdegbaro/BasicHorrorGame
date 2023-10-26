@@ -2973,3 +2973,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.26-08.16.24:311][960]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2023.10.26-08.16.24:311][960]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
 [2023.10.26-08.16.24:311][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor
+[2023.10.26-08.19.11:303][245]BlueprintLog: New page: Compile BP_InteractionActor
+[2023.10.26-08.19.11:347][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.10.26-08.20.47:304][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_InteractionActor" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/BP_InteractionActor.uasset" SILENT=true
+[2023.10.26-08.20.47:315][693]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActorF730BE86402993CC75ED8F94375C4249.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/BP_InteractionActor.uasset'
+[2023.10.26-08.20.47:329][693]AssetCheck: New page: Asset Save: BP_InteractionActor
+[2023.10.26-08.20.47:329][693]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor
+[2023.10.26-08.20.50:395][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.26-08.20.50:418][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.10.26-08.20.50:431][870]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level18BEEB1FD42AED5302E35FCA402B5C3A7.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.26-08.20.50:444][870]LogFileHelpers: Saving map 'Level1' took 0.050
+[2023.10.26-08.20.50:458][870]AssetCheck: New page: Asset Save: Level1
+[2023.10.26-08.20.50:458][870]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:846][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:847][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:847][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:847][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:847][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:847][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:847][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:847][ 63]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-08.20.53:954][ 63]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.26-08.20.54:153][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_InteractionActor" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/BP_InteractionActor.uasset" SILENT=true
+[2023.10.26-08.20.54:163][ 63]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActorA0B1C0714CB03A9C3894AFA077A6CF9D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/BP_InteractionActor.uasset'
+[2023.10.26-08.20.54:163][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.26-08.20.54:186][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.26-08.20.54:197][ 63]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level13AEADBC64B4811DF403F4DAE388B1D61.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.26-08.20.54:209][ 63]LogFileHelpers: Saving map 'Level1' took 0.046
+[2023.10.26-08.21.50:331][ 63]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.26-08.21.50:705][ 63]LogSourceControl: commit successful: [main 5883a1f] Made a Player Reference variable in BP_Interaction that comes from L1_PlayerCharacter - AO
+[2023.10.26-08.21.50:816][ 63]SourceControl: [main 5883a1f] Made a Player Reference variable in BP_Interaction that comes from L1_PlayerCharacter - AO
+[2023.10.26-08.21.50:816][ 63]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.26-08.21.50:827][ 63]SourceControl: Commited [main 5883a1f] Made a Player Reference variable in BP_Interaction that comes from L1_PlayerCharacter - AO.
+[2023.10.26-08.21.50:851][ 64]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.26-08.21.50:851][ 64]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.26-08.21.50:851][ 64]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor
