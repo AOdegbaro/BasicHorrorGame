@@ -887,3 +887,81 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.26-21.47.13:426][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.10.26-21.47.13:509][  2]LogSlate: Took 0.005968 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.10.26-21.47.14:377][ 54]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.26-21.49.12:628][327]LogContentBrowser: Deferred new asset file creation: BP_InteractionActor_Door1
+[2023.10.26-21.49.12:640][327]LogContentBrowser: Creating deferred item: BP_InteractionActor_Door1
+[2023.10.26-21.49.24:672][ 47]LogContentBrowser: Attempting asset rename: BP_InteractionActor_Door1 -> BP_InteractionActor_OutwardDoor
+[2023.10.26-21.49.24:787][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.10.26-21.49.24:943][ 47]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor_OutwardDoor3FD8A82B414158E2CE95ABA3EF865AB7.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_OutwardDoor.uasset'
+[2023.10.26-21.49.25:286][ 47]LogContentBrowser: End creating deferred item BP_InteractionActor_Door1
+[2023.10.26-21.49.25:291][ 47]AssetCheck: New page: Asset Save: BP_InteractionActor_OutwardDoor
+[2023.10.26-21.49.25:291][ 47]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_OutwardDoor.BP_InteractionActor_OutwardDoor
+[2023.10.26-21.49.30:233][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_OutwardDoor.BP_InteractionActor_OutwardDoor
+[2023.10.26-21.49.30:954][341]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.10.26-21.49.31:807][341]LogSlate: Took 0.004606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.26-21.49.31:923][343]LogSlate: Took 0.007585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.26-21.49.33:992][458]LogSlate: Window 'BP_InteractionActor_OutwardDoor' being destroyed
+[2023.10.26-21.53.20:940][995]BlueprintLog: New page: Compile BP_InteractionActor_OutwardDoor
+[2023.10.26-21.53.20:983][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.10.26-21.53.21:019][995]LogSlate: Took 0.005566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.10.26-21.57.10:070][132]BlueprintLog: New page: Compile BP_InteractionActor_OutwardDoor
+[2023.10.26-21.57.10:105][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.10.26-22.00.16:670][917]BlueprintLog: New page: Compile BP_InteractionActor_OutwardDoor
+[2023.10.26-22.00.16:712][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.10.26-22.00.53:846][101]BlueprintLog: New page: Compile BP_InteractionActor_OutwardDoor
+[2023.10.26-22.00.53:879][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.10.26-22.02.09:941][819]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor_OutwardDoor60E109084EAD716905CC3F97FE8F8FA2.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_OutwardDoor.uasset'
+[2023.10.26-22.02.09:956][819]AssetCheck: New page: Asset Save: BP_InteractionActor_OutwardDoor
+[2023.10.26-22.02.09:956][819]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_OutwardDoor.BP_InteractionActor_OutwardDoor
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:687][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:689][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:689][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:689][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:689][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:689][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:689][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:689][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:689][811]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.02.26:802][811]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.26-22.02.26:932][811]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor_OutwardDoor5750FE7D48D0EBC2C5BC3484EC1D401D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_OutwardDoor.uasset'
+[2023.10.26-22.03.59:133][811]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.26-22.03.59:395][811]LogSourceControl: commit successful: [main 26410b6] Added new BP_InteractionActor_OutwardDoor and added a dot product so that the door can check how close the playercharacter is to check which side the door should open up for the player. - AO
+[2023.10.26-22.03.59:451][811]SourceControl: [main 26410b6] Added new BP_InteractionActor_OutwardDoor and added a dot product so that the door can check how close the playercharacter is to check which side the door should open up for the player. - AO
+[2023.10.26-22.03.59:451][811]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.10.26-22.03.59:451][811]SourceControl:  create mode 100644 BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_OutwardDoor.uasset
+[2023.10.26-22.03.59:459][811]SourceControl: Commited [main 26410b6] Added new BP_InteractionActor_OutwardDoor and added a dot product so that the door can check how close the playercharacter is to check which side the door should open up for the player. - AO.
+[2023.10.26-22.03.59:489][812]AssetCheck: New page: Asset Save: BP_InteractionActor_OutwardDoor
+[2023.10.26-22.03.59:489][812]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_OutwardDoor.BP_InteractionActor_OutwardDoor
+[2023.10.26-22.04.08:702][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.10.26-22.04.08:782][342]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2023.10.26-22.04.08:782][342]Cmd: MAP LOAD FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.26-22.04.08:782][342]LightingResults: New page: Lighting Build
+[2023.10.26-22.04.08:783][342]LoadErrors: New page: Loading map: Level1.umap
+[2023.10.26-22.04.08:811][342]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-22.04.08:811][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-22.04.08:811][342]MapCheck: New page: Map Check
+[2023.10.26-22.04.08:811][342]LightingResults: New page: Lighting Build
+[2023.10.26-22.04.08:827][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.26-22.04.08:832][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.10.26-22.04.08:833][342]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.10.26-22.04.08:908][342]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.26-22.04.08:908][342]LogAIModule: Creating AISystem for world Level1
+[2023.10.26-22.04.08:928][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.10.26-22.04.08:941][342]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.26-22.04.08:941][342]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2023.10.26-22.04.08:941][342]LogFileHelpers: Loading map 'Level1' took 0.158
