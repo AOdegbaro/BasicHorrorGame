@@ -1585,3 +1585,116 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.26-06.54.29:464][348]AssetCheck: New page: Asset Save: multiple assets
 [2023.10.26-06.54.29:464][348]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2023.10.26-06.54.29:464][348]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_BuiltData.Level1_BuiltData
+[2023.10.26-06.55.51:554][ 12]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.26-06.55.57:636][345]BlueprintLog: New page: Compile L1_PlayerCharacter
+[2023.10.26-06.55.57:675][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.10.26-06.55.58:608][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.26-06.55.58:618][391]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacterE080A338408612E9A944A1A8921468D0.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.26-06.55.58:632][391]AssetCheck: New page: Asset Save: L1_PlayerCharacter
+[2023.10.26-06.55.58:632][391]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.26-06.56.49:882][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameBP/HG_PlayerController.HG_PlayerController
+[2023.10.26-06.56.52:741][131]LogSlate: Window 'HG_PlayerController' being destroyed
+[2023.10.26-06.56.54:188][217]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-06.56.54:188][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-06.57.54:715][751]BlueprintLog: New page: Compile HG_PlayerController
+[2023.10.26-06.57.54:754][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.10.26-06.57.55:355][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/HG_PlayerController" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/HG_PlayerController.uasset" SILENT=true
+[2023.10.26-06.57.55:364][779]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/HG_PlayerController871DC6F8475725E95E67E6A8673E299C.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/HG_PlayerController.uasset'
+[2023.10.26-06.57.55:379][779]AssetCheck: New page: Asset Save: HG_PlayerController
+[2023.10.26-06.57.55:379][779]LogContentValidation: Display: Validating Blueprint /Game/GameBP/HG_PlayerController.HG_PlayerController
+[2023.10.26-06.57.59:251][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/HG_PlayerController" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/HG_PlayerController.uasset" SILENT=true
+[2023.10.26-06.57.59:258][  1]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/HG_PlayerController5460352E4BDB29E00CACD1A3D31809DF.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/HG_PlayerController.uasset'
+[2023.10.26-06.57.59:275][  1]AssetCheck: New page: Asset Save: HG_PlayerController
+[2023.10.26-06.57.59:275][  1]LogContentValidation: Display: Validating Blueprint /Game/GameBP/HG_PlayerController.HG_PlayerController
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:473][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-06.59.27:574][126]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.26-06.59.27:745][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/HG_PlayerController" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/HG_PlayerController.uasset" SILENT=true
+[2023.10.26-06.59.27:753][126]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/HG_PlayerControllerDA02ECF44FF9BEB8BFBACE8F4BD28E7A.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/HG_PlayerController.uasset'
+[2023.10.26-06.59.27:754][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.26-06.59.27:761][126]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacterB8AA815544D1DC3D71B954B842C1A267.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.26-07.01.13:466][126]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.26-07.01.13:783][126]LogSourceControl: commit successful: [main ea49d5d] Went into L1_PlayerCharacter and made sure the camera was checking for pawn rotation. Went into HG_PlayerController and added Pitch Input to the LookUp input and added Yaw Input to the LookRight Input. - AO
+[2023.10.26-07.01.13:904][126]SourceControl: [main ea49d5d] Went into L1_PlayerCharacter and made sure the camera was checking for pawn rotation. Went into HG_PlayerController and added Pitch Input to the LookUp input and added Yaw Input to the LookRight Input. - AO
+[2023.10.26-07.01.13:904][126]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.26-07.01.13:914][126]SourceControl: Commited [main ea49d5d] Went into L1_PlayerCharacter and made sure the camera was checking for pawn rotation. Went into HG_PlayerController and added Pitch Input to the LookUp input and added Yaw Input to the LookRight Input. - AO.
+[2023.10.26-07.01.13:941][127]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.26-07.01.13:941][127]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.26-07.01.13:941][127]LogContentValidation: Display: Validating Blueprint /Game/GameBP/HG_PlayerController.HG_PlayerController
+[2023.10.26-07.01.15:971][238]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.26-07.01.15:979][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.26-07.01.15:979][238]PIE: New page: PIE session: Level1 (Oct 25, 2023, 9:01:15 PM)
+[2023.10.26-07.01.15:979][238]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.26-07.01.15:983][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003607s)
+[2023.10.26-07.01.15:984][238]LogAIModule: Creating AISystem for world Level1
+[2023.10.26-07.01.15:984][238]LogPlayLevel: PIE: World Init took: (0.001290s)
+[2023.10.26-07.01.15:984][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005020s)
+[2023.10.26-07.01.16:005][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.10.26-07.01.16:007][238]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.26-07.01.16:007][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.26-07.01.16:007][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.26-07.01.16:007][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.26-07.01.16:007][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.26-07.01.16:007][238]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.26-07.01.16:007][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.26-07.01.16:007][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.26-07.01.16:007][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.26-07.01.16:007][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.26-07.01.16:007][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.26-07.01.16:007][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.26-07.01.16:007][238]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.26-07.01.16:011][238]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.26-07.01.16:011][238]LogAudioMixer: Display: 1: FrontRight
+[2023.10.26-07.01.16:037][238]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.26-07.01.16:037][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.26-07.01.16:037][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.26-07.01.16:037][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.26-07.01.16:038][238]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.26-07.01.16:038][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.26-07.01.16:038][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.26-07.01.16:039][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.26-07.01.16:039][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.26-07.01.16:039][238]LogInit: FAudioDevice initialized.
+[2023.10.26-07.01.16:039][238]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2023.10.26-07.01.16:050][238]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.26-07.01.16:052][238]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.26-02.01.16
+[2023.10.26-07.01.16:052][238]LogWorld: Bringing up level for play took: 0.000755
+[2023.10.26-07.01.16:052][238]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.10.26-07.01.16:063][238]LogBlueprintUserMessages: [L1_PlayerCharacter_C_0] This is our L1_PlayerCharacter
+[2023.10.26-07.01.16:063][238]PIE: Server logged in
+[2023.10.26-07.01.16:064][238]PIE: Play in editor total start time 0.087 seconds.
+[2023.10.26-07.01.22:618][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.26-07.01.22:618][626]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.26-07.01.22:618][626]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-07.01.22:618][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-07.01.22:624][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.26-07.01.22:642][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-07.01.22:659][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.26-07.01.22:659][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.26-07.01.22:661][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.26-07.01.22:686][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.26-07.01.22:696][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.10.26-07.01.22:720][627]LogPlayLevel: Display: Destroying online subsystem :Context_8
