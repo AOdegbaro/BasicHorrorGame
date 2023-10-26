@@ -2403,3 +2403,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.26-22.28.37:822][977]AssetCheck: New page: Asset Save: multiple assets
 [2023.10.26-22.28.37:822][977]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2023.10.26-22.28.37:822][977]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grabbables/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.10.26-22.29.58:025][998]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.10.26-22.29.58:043][998]LogContentBrowser: Creating deferred item: NewInterface
+[2023.10.26-22.30.03:780][343]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Grab
+[2023.10.26-22.30.03:875][343]LogContentBrowser: End creating deferred item NewInterface
+[2023.10.26-22.30.08:108][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/BPI_Grab" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Interfaces/BPI_Grab.uasset" SILENT=true
+[2023.10.26-22.30.08:111][589]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPI_GrabDD0FEF384F5A2561F6C0B8BAEFF7E44C.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Interfaces/BPI_Grab.uasset'
+[2023.10.26-22.30.08:270][589]AssetCheck: New page: Asset Save: BPI_Grab
+[2023.10.26-22.30.08:271][589]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:514][775]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.30.11:620][775]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.26-22.30.11:741][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/BPI_Grab" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Interfaces/BPI_Grab.uasset" SILENT=true
+[2023.10.26-22.30.11:744][775]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPI_Grab3C72E39C4F76AE6B177C899CAB458E23.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Interfaces/BPI_Grab.uasset'
+[2023.10.26-22.30.37:837][775]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.26-22.30.38:088][775]LogSourceControl: commit successful: [main 502207d] Added a new Interface called BPI_Grab - AO
+[2023.10.26-22.30.38:144][775]SourceControl: [main 502207d] Added a new Interface called BPI_Grab - AO
+[2023.10.26-22.30.38:144][775]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.10.26-22.30.38:144][775]SourceControl:  create mode 100644 BasicHorrorGame/Content/Blueprints/Interfaces/BPI_Grab.uasset
+[2023.10.26-22.30.38:154][775]SourceControl: Commited [main 502207d] Added a new Interface called BPI_Grab - AO.
+[2023.10.26-22.30.38:182][776]AssetCheck: New page: Asset Save: BPI_Grab
+[2023.10.26-22.30.38:182][776]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab
