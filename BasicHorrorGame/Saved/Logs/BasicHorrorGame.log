@@ -2231,3 +2231,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.26-22.12.48:923][417]AssetCheck: New page: Asset Save: multiple assets
 [2023.10.26-22.12.48:923][417]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_OutwardDoor.BP_InteractionActor_OutwardDoor
 [2023.10.26-22.12.48:923][417]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.26-22.15.22:716][ 50]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-22.15.22:717][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-22.15.27:145][297]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.26-22.15.27:159][297]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.26-22.15.31:334][548]LogContentBrowser: Attempting asset rename: NewFolder -> Grabbables
+[2023.10.26-22.15.31:334][548]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.26-22.15.37:837][928]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.26-22.15.39:196][928]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.26-22.15.39:209][928]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.26-22.15.39:223][928]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.26-22.15.47:762][441]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PhysicsDoor
+[2023.10.26-22.15.47:866][441]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.26-22.16.39:142][ 75]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Grabbables/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.10.26-22.16.41:463][179]LogRenderer: Reallocating scene render targets to support 1144x704 Format 10 NumSamples 1 (Frame:110).
+[2023.10.26-22.16.41:684][192]LogSlate: Window 'BP_PhysicsDoor' being destroyed
+[2023.10.26-22.17.32:872][205]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.10.26-22.17.32:967][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2023.10.26-22.17.33:646][234]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_PhysicsDoorDCFAFC904C182956F50D4B8C24B01AE7.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Grabbables/BP_PhysicsDoor.uasset'
+[2023.10.26-22.17.33:826][234]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.10.26-22.17.33:826][234]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grabbables/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:787][521]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-22.17.38:892][521]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.26-22.17.39:024][521]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_PhysicsDoor04FF380841F1F8AC4E7E3392A1F6EE8B.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Grabbables/BP_PhysicsDoor.uasset'
+[2023.10.26-22.18.14:896][521]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.26-22.18.15:144][521]LogSourceControl: commit successful: [main a08cc31] Created a new blueprint called BP_PhysicsDoor. This will not have BPI_Interaction implemented - AO
+[2023.10.26-22.18.15:202][521]SourceControl: [main a08cc31] Created a new blueprint called BP_PhysicsDoor. This will not have BPI_Interaction implemented - AO
+[2023.10.26-22.18.15:202][521]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.10.26-22.18.15:202][521]SourceControl:  create mode 100644 BasicHorrorGame/Content/Blueprints/Actors/Grabbables/BP_PhysicsDoor.uasset
+[2023.10.26-22.18.15:211][521]SourceControl: Commited [main a08cc31] Created a new blueprint called BP_PhysicsDoor. This will not have BPI_Interaction implemented - AO.
+[2023.10.26-22.18.15:242][522]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.10.26-22.18.15:242][522]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grabbables/BP_PhysicsDoor.BP_PhysicsDoor
