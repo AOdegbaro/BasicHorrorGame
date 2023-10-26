@@ -1348,3 +1348,124 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.26-15.17.47:019][155]AssetCheck: New page: Asset Save: multiple assets
 [2023.10.26-15.17.47:019][155]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2023.10.26-15.17.47:019][155]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2023.10.26-15.18.38:079][569]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.26-15.18.38:090][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.26-15.18.38:091][569]PIE: New page: PIE session: Level1 (Oct 26, 2023, 5:18:38 AM)
+[2023.10.26-15.18.38:091][569]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.26-15.18.38:094][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002953s)
+[2023.10.26-15.18.38:095][569]LogAIModule: Creating AISystem for world Level1
+[2023.10.26-15.18.38:095][569]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2023.10.26-15.18.38:095][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004503s)
+[2023.10.26-15.18.38:111][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.26-15.18.38:116][569]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.10.26-15.18.38:116][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.26-15.18.38:116][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.26-15.18.38:116][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.26-15.18.38:116][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.26-15.18.38:116][569]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.26-15.18.38:116][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.26-15.18.38:116][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.26-15.18.38:116][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.26-15.18.38:117][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.26-15.18.38:117][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.26-15.18.38:117][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.26-15.18.38:117][569]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.26-15.18.38:120][569]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.26-15.18.38:120][569]LogAudioMixer: Display: 1: FrontRight
+[2023.10.26-15.18.38:147][569]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.26-15.18.38:148][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.26-15.18.38:148][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.26-15.18.38:148][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.26-15.18.38:148][569]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.26-15.18.38:148][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.26-15.18.38:148][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.26-15.18.38:149][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.26-15.18.38:149][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.26-15.18.38:149][569]LogInit: FAudioDevice initialized.
+[2023.10.26-15.18.38:149][569]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.10.26-15.18.38:155][569]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.26-15.18.38:156][569]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.26-10.18.38
+[2023.10.26-15.18.38:156][569]LogWorld: Bringing up level for play took: 0.000615
+[2023.10.26-15.18.38:156][569]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.10.26-15.18.38:158][569]PIE: Server logged in
+[2023.10.26-15.18.38:159][569]PIE: Play in editor total start time 0.073 seconds.
+[2023.10.26-15.18.49:757][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.26-15.18.49:757][261]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.26-15.18.49:757][261]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-15.18.49:757][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-15.18.49:767][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.26-15.18.49:784][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-15.18.49:797][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.26-15.18.49:797][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.26-15.18.49:798][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.26-15.18.49:829][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.10.26-15.18.49:852][262]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.10.26-15.19.36:009][914]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.26-15.19.36:029][914]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.26-15.19.40:215][166]LogContentBrowser: Attempting asset rename: NewFolder -> Interactions
+[2023.10.26-15.19.40:216][166]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.26-15.19.44:761][401]LogMetaData: Removing '/Game/Blueprints/Actors/Interactions/BP_InteractionActor.BP_InteractionActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actors/BP_InteractionActor.PackageMetaData'
+[2023.10.26-15.19.44:761][401]LogMetaData: Removing '/Game/Blueprints/Actors/Interactions/BP_InteractionActor.BP_InteractionActor_C' ref from Metadata '/Game/Blueprints/Actors/BP_InteractionActor.PackageMetaData'
+[2023.10.26-15.19.44:761][401]LogMetaData: Removing '/Game/Blueprints/Actors/Interactions/BP_InteractionActor.BP_InteractionActor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actors/BP_InteractionActor.PackageMetaData'
+[2023.10.26-15.19.44:761][401]LogMetaData: Removing '/Game/Blueprints/Actors/Interactions/BP_InteractionActor.SKEL_BP_InteractionActor_C' ref from Metadata '/Game/Blueprints/Actors/BP_InteractionActor.PackageMetaData'
+[2023.10.26-15.19.44:761][401]LogMetaData: Removing '/Game/Blueprints/Actors/Interactions/BP_InteractionActor.BP_InteractionActor_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/BP_InteractionActor.PackageMetaData'
+[2023.10.26-15.19.44:761][401]LogMetaData: Removing '/Game/Blueprints/Actors/Interactions/BP_InteractionActor.SKEL_BP_InteractionActor_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/BP_InteractionActor.PackageMetaData'
+[2023.10.26-15.19.44:761][401]LogMetaData: Removing '/Game/Blueprints/Actors/Interactions/BP_InteractionActor.SKEL_BP_InteractionActor_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/BP_InteractionActor.PackageMetaData'
+[2023.10.26-15.19.44:812][401]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActorB346B4C140F7259FFD99B2948C14174D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor.uasset'
+[2023.10.26-15.19.44:956][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_InteractionActor" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/BP_InteractionActor.uasset" SILENT=true
+[2023.10.26-15.19.44:959][401]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor4DD288104DE15F338B773CAACD2D59E6.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/BP_InteractionActor.uasset'
+[2023.10.26-15.19.45:173][401]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.26-15.19.45:173][401]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor.BP_InteractionActor
+[2023.10.26-15.19.45:173][401]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor
+[2023.10.26-15.19.45:173][401]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Actors/BP_InteractionActor.Default__BP_InteractionActor_C
+[2023.10.26-15.19.45:173][401]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor_C
+[2023.10.26-15.19.51:643][782]LogContentBrowser: Deferred new asset file creation: BP_InteractionActor_Child
+[2023.10.26-15.19.51:655][782]LogContentBrowser: Creating deferred item: BP_InteractionActor_Child
+[2023.10.26-15.19.56:900][ 96]LogContentBrowser: Attempting asset rename: BP_InteractionActor_Child -> BP_InteractionActor_Door
+[2023.10.26-15.19.56:993][ 96]LogContentBrowser: End creating deferred item BP_InteractionActor_Child
+[2023.10.26-15.20.01:814][377]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor_Door3372E9444AF513D2C71F999E8B341996.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_Door.uasset'
+[2023.10.26-15.20.01:990][377]AssetCheck: New page: Asset Save: BP_InteractionActor_Door
+[2023.10.26-15.20.01:990][377]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_Door.BP_InteractionActor_Door
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:502][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:503][578]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-15.20.05:615][578]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.26-15.20.05:782][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_InteractionActor" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/BP_InteractionActor.uasset" SILENT=true
+[2023.10.26-15.20.05:785][578]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor0D91F74240494301DC1B95801CCF9FD1.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/BP_InteractionActor.uasset'
+[2023.10.26-15.20.05:795][578]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor7C3D64994932FE94E5C8D4A995E64801.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor.uasset'
+[2023.10.26-15.20.05:803][578]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor_Door03817F234AC4BF0CAFE369B7CB03E989.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_Door.uasset'
+[2023.10.26-15.20.51:340][578]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.26-15.20.51:685][578]LogSourceControl: commit successful: [main f6b160f] Created a child Blueprint of BP_InteractionActor and named it BP_InteractionActor_Door. - AO
+[2023.10.26-15.20.51:794][578]SourceControl: [main f6b160f] Created a child Blueprint of BP_InteractionActor and named it BP_InteractionActor_Door. - AO
+[2023.10.26-15.20.51:794][578]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.26-15.20.51:794][578]SourceControl:  create mode 100644 BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor.uasset
+[2023.10.26-15.20.51:794][578]SourceControl:  create mode 100644 BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_Door.uasset
+[2023.10.26-15.20.51:803][578]SourceControl: Commited [main f6b160f] Created a child Blueprint of BP_InteractionActor and named it BP_InteractionActor_Door. - AO.
+[2023.10.26-15.20.51:831][579]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.26-15.20.51:831][579]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor.BP_InteractionActor
+[2023.10.26-15.20.51:832][579]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_Door.BP_InteractionActor_Door
+[2023.10.26-15.20.51:832][579]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor
+[2023.10.26-15.20.51:832][579]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Actors/BP_InteractionActor.Default__BP_InteractionActor_C
+[2023.10.26-15.20.51:832][579]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor_C
