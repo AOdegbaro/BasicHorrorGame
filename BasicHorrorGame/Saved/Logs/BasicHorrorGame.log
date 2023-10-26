@@ -1024,3 +1024,71 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.26-14.41.24:456][610]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/W_Crosshair.W_Crosshair
 [2023.10.26-14.41.24:456][610]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
 [2023.10.26-14.41.24:456][610]LogContentValidation: Display: Validating Texture2D /Game/Textures/Crosshair.Crosshair
+[2023.10.26-14.42.16:343][160]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
+[2023.10.26-14.42.17:017][160]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.10.26-14.42.18:135][160]LogSlate: Took 0.004684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.26-14.42.20:548][301]LogSlate: Window 'W_MainHUD' being destroyed
+[2023.10.26-14.42.23:116][450]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/W_Crosshair.W_Crosshair
+[2023.10.26-14.42.34:596][110]BlueprintLog: New page: Compile W_Crosshair
+[2023.10.26-14.42.34:672][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.10.26-14.43.00:549][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.10.26-14.43.00:550][265]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.041
+[2023.10.26-14.43.00:551][265]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/W_Crosshair] ([2] browsable assets)...
+[2023.10.26-14.43.00:551][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/W_Crosshair]
+[2023.10.26-14.43.00:551][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_Crosshair" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Autosaves/Game/UMG/W_Crosshair_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.10.26-14.43.00:557][265]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/W_Crosshair_Auto1B263B80B4EEA22444E6F228BCE603B01.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Autosaves/Game/UMG/W_Crosshair_Auto1.uasset'
+[2023.10.26-14.43.00:558][265]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.10.26-14.43.44:274][ 28]BlueprintLog: New page: Compile W_Crosshair
+[2023.10.26-14.43.44:302][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.10.26-14.44.07:192][395]BlueprintLog: New page: Compile W_Crosshair
+[2023.10.26-14.44.07:223][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.10.26-14.45.10:308][240]BlueprintLog: New page: Compile W_Crosshair
+[2023.10.26-14.45.10:342][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.10.26-14.46.42:164][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_Crosshair" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/UMG/W_Crosshair.uasset" SILENT=true
+[2023.10.26-14.46.42:169][747]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/W_Crosshair1509C1A5494AF31CBB87869B1471E373.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/UMG/W_Crosshair.uasset'
+[2023.10.26-14.46.42:192][747]AssetCheck: New page: Asset Save: W_Crosshair
+[2023.10.26-14.46.42:192][747]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/W_Crosshair.W_Crosshair
+[2023.10.26-14.47.49:025][751]BlueprintLog: New page: Compile W_MainHUD
+[2023.10.26-14.47.49:060][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.10.26-14.47.50:381][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_MainHUD" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/UMG/W_MainHUD.uasset" SILENT=true
+[2023.10.26-14.47.50:388][821]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/W_MainHUD9692FE234C08B1EC4EF2FE8299FF2B33.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/UMG/W_MainHUD.uasset'
+[2023.10.26-14.47.50:412][821]AssetCheck: New page: Asset Save: W_MainHUD
+[2023.10.26-14.47.50:412][821]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:483][436]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.26-14.48.17:584][436]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.26-14.48.17:704][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_Crosshair" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/UMG/W_Crosshair.uasset" SILENT=true
+[2023.10.26-14.48.17:711][436]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/W_CrosshairE396A25E4EB13D370AC4C7B90C328492.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/UMG/W_Crosshair.uasset'
+[2023.10.26-14.48.17:713][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_MainHUD" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/UMG/W_MainHUD.uasset" SILENT=true
+[2023.10.26-14.48.17:719][436]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/W_MainHUD5DB7EC34445C576E504F0EA9ADA72C5C.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/UMG/W_MainHUD.uasset'
+[2023.10.26-14.50.18:767][436]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.26-14.50.19:015][436]LogSourceControl: commit successful: [main e112ba9] Added and modify the crosshair png to the W_Crosshair. Added the W_Crosshair to the W_MainHUD. - AO
+[2023.10.26-14.50.19:080][436]SourceControl: [main e112ba9] Added and modify the crosshair png to the W_Crosshair. Added the W_Crosshair to the W_MainHUD. - AO
+[2023.10.26-14.50.19:080][436]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.26-14.50.19:089][436]SourceControl: Commited [main e112ba9] Added and modify the crosshair png to the W_Crosshair. Added the W_Crosshair to the W_MainHUD. - AO.
+[2023.10.26-14.50.19:117][437]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.26-14.50.19:117][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/W_Crosshair.W_Crosshair
+[2023.10.26-14.50.19:117][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
