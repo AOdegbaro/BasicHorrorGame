@@ -2978,3 +2978,266 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-05.14.33:398][601]AssetCheck: New page: Asset Save: multiple assets
 [2023.10.27-05.14.33:398][601]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2023.10.27-05.14.33:398][601]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_LightSwitch.BP_InteractionActor_LightSwitch
+[2023.10.27-05.17.19:492][810]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.27-05.17.19:503][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-05.17.19:503][810]PIE: New page: PIE session: Level1 (Oct 26, 2023, 7:17:19 PM)
+[2023.10.27-05.17.19:503][810]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.17.19:506][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002633s)
+[2023.10.27-05.17.19:506][810]LogAIModule: Creating AISystem for world Level1
+[2023.10.27-05.17.19:506][810]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2023.10.27-05.17.19:506][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003781s)
+[2023.10.27-05.17.19:529][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.27-05.17.19:534][810]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.10.27-05.17.19:534][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-05.17.19:534][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-05.17.19:534][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-05.17.19:534][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-05.17.19:534][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-05.17.19:534][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-05.17.19:534][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-05.17.19:534][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-05.17.19:535][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-05.17.19:535][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-05.17.19:535][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-05.17.19:535][810]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.27-05.17.19:538][810]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.27-05.17.19:538][810]LogAudioMixer: Display: 1: FrontRight
+[2023.10.27-05.17.19:564][810]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.27-05.17.19:565][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-05.17.19:565][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-05.17.19:565][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-05.17.19:565][810]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.27-05.17.19:565][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.27-05.17.19:565][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.27-05.17.19:566][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.27-05.17.19:566][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.27-05.17.19:566][810]LogInit: FAudioDevice initialized.
+[2023.10.27-05.17.19:566][810]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2023.10.27-05.17.19:575][810]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.27-05.17.19:576][810]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.27-00.17.19
+[2023.10.27-05.17.19:576][810]LogWorld: Bringing up level for play took: 0.000946
+[2023.10.27-05.17.19:576][810]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.10.27-05.17.19:579][810]PIE: Server logged in
+[2023.10.27-05.17.19:580][810]PIE: Play in editor total start time 0.081 seconds.
+[2023.10.27-05.17.51:801][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.17.51:801][738]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.17.51:802][738]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-05.17.51:802][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.17.51:813][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-05.17.51:821][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.17.51:840][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.17.51:841][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.17.51:842][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.17.51:869][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.27-05.17.51:902][739]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.10.27-05.20.12:434][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.10.27-05.20.31:970][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2023.10.27-05.20.39:892][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2023.10.27-05.20.54:595][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2023.10.27-05.21.06:517][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2023.10.27-05.21.11:506][583]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor3)
+[2023.10.27-05.21.45:414][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2023.10.27-05.22.05:621][809]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.10.27-05.22.27:356][109]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.27-05.22.27:367][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-05.22.27:367][109]PIE: New page: PIE session: Level1 (Oct 26, 2023, 7:22:27 PM)
+[2023.10.27-05.22.27:368][109]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.22.27:370][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002668s)
+[2023.10.27-05.22.27:371][109]LogAIModule: Creating AISystem for world Level1
+[2023.10.27-05.22.27:371][109]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2023.10.27-05.22.27:371][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003843s)
+[2023.10.27-05.22.27:392][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.27-05.22.27:398][109]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.10.27-05.22.27:398][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-05.22.27:398][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-05.22.27:398][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-05.22.27:398][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-05.22.27:398][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-05.22.27:398][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-05.22.27:398][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-05.22.27:398][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-05.22.27:398][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-05.22.27:398][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-05.22.27:398][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-05.22.27:398][109]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.27-05.22.27:402][109]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.27-05.22.27:402][109]LogAudioMixer: Display: 1: FrontRight
+[2023.10.27-05.22.27:428][109]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.27-05.22.27:428][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-05.22.27:428][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-05.22.27:428][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-05.22.27:429][109]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.27-05.22.27:429][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.27-05.22.27:429][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.27-05.22.27:430][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.27-05.22.27:430][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.27-05.22.27:430][109]LogInit: FAudioDevice initialized.
+[2023.10.27-05.22.27:430][109]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level1'.
+[2023.10.27-05.22.27:443][109]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.27-05.22.27:444][109]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.27-00.22.27
+[2023.10.27-05.22.27:445][109]LogWorld: Bringing up level for play took: 0.000989
+[2023.10.27-05.22.27:445][109]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.10.27-05.22.27:447][109]PIE: Server logged in
+[2023.10.27-05.22.27:448][109]PIE: Play in editor total start time 0.084 seconds.
+[2023.10.27-05.22.57:941][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.22.57:941][932]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.22.57:941][932]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-05.22.57:941][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.22.57:947][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-05.22.57:958][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.22.57:978][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-05.22.57:978][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.22.57:979][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.22.57:991][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.22.57:993][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.27-05.22.58:024][933]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.10.27-05.23.27:074][328]MapCheck: New page: Map Check
+[2023.10.27-05.23.27:094][328]LightingResults: New page: Lighting Build - Oct 26, 2023, 7:23:27 PM
+[2023.10.27-05.23.27:114][328]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.10.27-05.23.27:120][328]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.10.27-05.23.27:120][328]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.10.27-05.23.27:122][328]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.10.27-05.23.27:122][328]LogSwarmInterface: [TryOpenConnection] Local Process ID is 37852
+[2023.10.27-05.23.32:534][328]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.10.27-05.23.32:534][328]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.10.27-05.23.32:534][328]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.10.27-05.23.32:534][328]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.10.27-05.23.32:534][328]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.10.27-05.23.32:534][328]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.10.27-05.23.32:645][328]LogEditorBuildUtils: Build time 0:05
+[2023.10.27-05.23.32:655][328]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.27-05.23.32:655][328]LogShaderCompilers: Display: Total job queries 157, among them cache hits 83 (52.87%)
+[2023.10.27-05.23.32:655][328]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 44 distinct outputs (68.75%)
+[2023.10.27-05.23.32:655][328]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.10.27-05.23.32:655][328]LogShaderCompilers: Display: ================================================
+[2023.10.27-05.23.32:693][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.27-05.23.34:484][407]Job is a success!
+[2023.10.27-05.23.34:592][408]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2023.10.27-05.23.34:592][408]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.10.27-05.23.34:592][408]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2023.10.27-05.23.34:593][408]LogVolumetricLightmapImport:      Bricks at depth
+[2023.10.27-05.23.34:593][408]LogVolumetricLightmapImport:          0: 14.3% covering 100.0% of volume
+[2023.10.27-05.23.34:593][408]LogVolumetricLightmapImport:          1: 14.3% covering 1.6% of volume
+[2023.10.27-05.23.34:593][408]LogVolumetricLightmapImport:          2: 71.4% covering 0.1% of volume
+[2023.10.27-05.23.34:593][408]LogVolumetricLightmapImport:      Bricks in each level
+[2023.10.27-05.23.34:593][408]LogVolumetricLightmapImport:          Level1 			 7 bricks 	 100.0% (Persistent Level)
+[2023.10.27-05.23.34:734][408]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.10.27-05.23.34:734][408]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.10.27-05.23.34:734][408]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.10.27-05.23.34:734][408]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.10.27-05.23.34:734][408]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2023.10.27-05.23.34:734][408]LogStaticLightingSystem: Level1_BuiltData storing lightmap data for 10 meshes in 1 LightmapResourceClusters (10.0 Meshes per cluster).
+[2023.10.27-05.23.34:759][408]Lightmass on MSI: 1.27 sec total, 227 ms importing, 28 ms setup, 139 ms photons, 850 ms processing, 0 ms extra exporting [10/10 mappings]. Threads: 9.34 sec total, 2.87 sec processing.
+[2023.10.27-05.23.34:762][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.10.27-05.23.34:818][408]LogStaticLightingSystem: Illumination: 7.66 sec (80 ms encoding lightmaps, 46 ms encoding shadowmaps)
+[2023.10.27-05.23.34:818][408]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.10.27-05.23.34:818][408]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2023.10.27-05.23.35:526][408]DumpUnbuiltLightIteractions
+[2023.10.27-05.23.35:526][408]Lights with unbuilt interactions: 0
+[2023.10.27-05.23.35:526][408]
+[2023.10.27-05.23.35:526][408]Primitives with unbuilt interactions: 0
+[2023.10.27-05.23.35:570][409]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.10.27-05.23.35:570][409]MapCheck: New page: Level1 - Oct 26, 2023, 7:23:35 PM
+[2023.10.27-05.23.35:570][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.513ms to complete.
+[2023.10.27-05.23.40:893][722]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.27-05.23.40:902][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-05.23.40:903][722]PIE: New page: PIE session: Level1 (Oct 26, 2023, 7:23:40 PM)
+[2023.10.27-05.23.40:903][722]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.23.40:905][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002652s)
+[2023.10.27-05.23.40:906][722]LogAIModule: Creating AISystem for world Level1
+[2023.10.27-05.23.40:906][722]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2023.10.27-05.23.40:906][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003614s)
+[2023.10.27-05.23.40:926][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.10.27-05.23.40:928][722]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.10.27-05.23.40:928][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-05.23.40:928][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-05.23.40:928][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-05.23.40:928][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-05.23.40:928][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-05.23.40:928][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-05.23.40:928][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-05.23.40:928][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-05.23.40:928][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-05.23.40:928][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-05.23.40:928][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-05.23.40:928][722]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.27-05.23.40:931][722]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.27-05.23.40:931][722]LogAudioMixer: Display: 1: FrontRight
+[2023.10.27-05.23.40:957][722]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.27-05.23.40:957][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-05.23.40:957][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-05.23.40:957][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-05.23.40:957][722]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.27-05.23.40:957][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.27-05.23.40:957][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.27-05.23.40:958][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.27-05.23.40:958][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.27-05.23.40:958][722]LogInit: FAudioDevice initialized.
+[2023.10.27-05.23.40:958][722]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level1'.
+[2023.10.27-05.23.40:970][722]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.27-05.23.40:971][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.27-00.23.40
+[2023.10.27-05.23.40:971][722]LogWorld: Bringing up level for play took: 0.000945
+[2023.10.27-05.23.40:971][722]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.10.27-05.23.40:974][722]PIE: Server logged in
+[2023.10.27-05.23.40:975][722]PIE: Play in editor total start time 0.075 seconds.
+[2023.10.27-05.24.32:121][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.24.32:121][787]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.24.32:121][787]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-05.24.32:121][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.24.32:128][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-05.24.32:139][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.24.32:156][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-05.24.32:157][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.24.32:158][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.24.32:170][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.24.32:172][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.10.27-05.24.32:203][788]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.10.27-05.24.34:511][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-05.24.34:532][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.10.27-05.24.34:545][918]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1143AFED340F0CB86E2E806A046CF5933.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-05.24.34:558][918]LogFileHelpers: Saving map 'Level1' took 0.047
+[2023.10.27-05.24.34:559][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2023.10.27-05.24.34:587][918]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1_BuiltDataBBF64E574E30591FA1F04D82BE54A695.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1_BuiltData.uasset'
+[2023.10.27-05.24.34:604][918]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-05.24.34:604][918]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_BuiltData.Level1_BuiltData
+[2023.10.27-05.24.34:604][918]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:746][ 94]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.24.37:858][ 94]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-05.24.37:982][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-05.24.38:003][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.27-05.24.38:015][ 94]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level10B515C2D4056CFCDB098A49E5302CE74.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-05.24.38:029][ 94]LogFileHelpers: Saving map 'Level1' took 0.047
+[2023.10.27-05.24.38:029][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2023.10.27-05.24.38:058][ 94]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1_BuiltData11C701F145B4225281FA68BC24BB8B63.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1_BuiltData.uasset'
+[2023.10.27-05.25.40:568][ 94]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-05.25.40:860][ 94]LogSourceControl: commit successful: [main 0bfaf81] Extended Level 1 map for sprint input and stamina testing. Added a pointed light for more light in Level 1 Map and rebuilt lighting - AO
+[2023.10.27-05.25.40:915][ 94]SourceControl: [main 0bfaf81] Extended Level 1 map for sprint input and stamina testing. Added a pointed light for more light in Level 1 Map and rebuilt lighting - AO
+[2023.10.27-05.25.40:915][ 94]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-05.25.40:925][ 94]SourceControl: Commited [main 0bfaf81] Extended Level 1 map for sprint input and stamina testing. Added a pointed light for more light in Level 1 Map and rebuilt lighting - AO.
+[2023.10.27-05.25.40:955][ 95]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-05.25.40:955][ 95]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_BuiltData.Level1_BuiltData
+[2023.10.27-05.25.40:955][ 95]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
