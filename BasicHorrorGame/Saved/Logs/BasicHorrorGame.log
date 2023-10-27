@@ -2409,3 +2409,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-04.21.37:977][ 99]SourceControl: Commited [main b4bc870] Created a new blueprint called BP_Flickerlight that is more random than the M_FlickerLight - AO.
 [2023.10.27-04.21.38:005][100]AssetCheck: New page: Asset Save: BP_FlickerLight
 [2023.10.27-04.21.38:005][100]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.22.59:159][841]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-04.22.59:159][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-04.22.59:890][881]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-04.22.59:890][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-04.23.00:965][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.23.04:674][135]LogSlate: Window 'BP_FlickerLight' being destroyed
+[2023.10.27-04.23.18:778][974]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.23.18:820][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.10.27-04.23.20:155][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.23.20:161][ 47]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLight58FB800D41D2058DF8553ABFBDF9C4A8.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.23.20:176][ 47]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.23.20:176][ 47]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.25.23:076][ 81]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.25.23:108][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.10.27-04.25.30:415][518]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.25.30:445][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.10.27-04.25.39:193][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.25.39:201][ 35]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLightD6920EEE4458CEEA93D10592684247F8.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.25.39:217][ 35]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.25.39:217][ 35]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.25.57:242][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:242][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:242][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:243][760]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.25.57:355][760]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-04.25.57:488][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.25.57:498][760]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLightE7B3E6E54FB3CC7E8C7FCAB25244ED82.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.26.31:384][760]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-04.26.31:624][760]LogSourceControl: commit successful: [main ea4e1f9] Set default intensity of the Point Light in the Construct Script - AO
+[2023.10.27-04.26.31:678][760]SourceControl: [main ea4e1f9] Set default intensity of the Point Light in the Construct Script - AO
+[2023.10.27-04.26.31:678][760]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-04.26.31:688][760]SourceControl: Commited [main ea4e1f9] Set default intensity of the Point Light in the Construct Script - AO.
+[2023.10.27-04.26.31:717][761]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.26.31:717][761]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
