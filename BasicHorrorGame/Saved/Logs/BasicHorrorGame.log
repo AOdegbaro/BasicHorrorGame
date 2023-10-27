@@ -1975,3 +1975,283 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-04.05.09:439][933]SourceControl: Commited [main 9175a50] Added a new Material called M_LightFlicker under folder Materials - AO.
 [2023.10.27-04.05.09:466][934]AssetCheck: New page: Asset Save: M_LightFlicker
 [2023.10.27-04.05.09:467][934]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.10.27-04.06.57:709][591]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 883DFC39A90FF0E819DE453383CB7F9C90E52366), compiling. 
+[2023.10.27-04.06.57:716][591]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.06.57:740][593]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.27-04.06.57:757][594]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.27-04.06.57:757][594]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.27-04.06.57:757][594]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.06.57:757][594]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.27-04.06.59:040][670]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 1938BD702BE6FB88D86D20F6EF3718C919336BC8), compiling. 
+[2023.10.27-04.06.59:048][670]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: D27A1FC8E8E41D6D1D7465B47F2EF359FAF960FF), compiling. 
+[2023.10.27-04.06.59:050][670]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: C31DE26D180EFBABBA38223F7A31E3A6531CBBEF), compiling. 
+[2023.10.27-04.06.59:058][670]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.06.59:093][671]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.06.59:093][671]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.10.27-04.06.59:094][671]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.10.27-04.06.59:094][671]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.10.27-04.06.59:094][671]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.10.27-04.06.59:094][671]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.10.27-04.06.59:094][671]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.06.59:680][706]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.06.59:680][706]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.06.59:681][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.04:149][972]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: D38E28C9C084F1ECF4575109E8CF3066E0660EEA), compiling. 
+[2023.10.27-04.07.04:155][972]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.04:186][974]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.07.04:186][974]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.07.04:186][974]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.10:873][373]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 346551EF203A1B23D8B3CE4E6F5CA3C9FEB31392), compiling. 
+[2023.10.27-04.07.10:883][373]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 15B7197BC5B11E2F45DB560E8C00CDF184B4AFD0), compiling. 
+[2023.10.27-04.07.10:887][373]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.10:917][375]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.07.10:917][375]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.07.10:917][375]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.16:992][738]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 8AD549233192312CD99F5DAB8197AC5D9B1EA329), compiling. 
+[2023.10.27-04.07.16:994][738]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.17:025][740]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.07.17:025][740]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.07.17:025][740]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.20:832][966]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: A62B95EB70C3A91CAA5BE192B181787C8211FCD0), compiling. 
+[2023.10.27-04.07.20:839][966]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 03EB4BA21508F7402874629884377B92739A1D09), compiling. 
+[2023.10.27-04.07.20:843][966]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.20:889][968]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.07.20:889][968]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.07.20:889][968]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.28:359][416]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 4E7CA2659BF81A4688DF449BECF74201F74E9296), compiling. 
+[2023.10.27-04.07.28:360][416]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 1D33D6BF5CC021258E7A35FCEB2C5F66F887E5D8), compiling. 
+[2023.10.27-04.07.28:362][416]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.28:389][418]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.07.28:389][418]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.07.28:389][418]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.31:713][617]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 7AB1868A77B663AE9A2C16499CAF2D95753EF3C6), compiling. 
+[2023.10.27-04.07.31:718][617]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.31:746][619]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.07.31:746][619]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.07.31:746][619]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.45:683][454]LogMaterialEditor: Saving and Compiling material M_LightFlicker
+[2023.10.27-04.07.46:004][454]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: A15B22E4BDFD855FE417AA372357CC1C90BE0882), compiling. 
+[2023.10.27-04.07.46:037][454]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: B1BFC5C5FF487FEFEFB49045D078B2F0488CD3B2), compiling. 
+[2023.10.27-04.07.46:089][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.10.27-04.07.46:101][454]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.07.46:204][454]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.10.27-04.07.46:204][454]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.07.46:204][454]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.27-04.07.46:204][454]LogShaderCompilers: Display: Total job queries 70, among them cache hits 38 (54.29%)
+[2023.10.27-04.07.46:204][454]LogShaderCompilers: Display: Tracking 21 distinct input hashes that result in 12 distinct outputs (57.14%)
+[2023.10.27-04.07.46:204][454]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.10.27-04.07.46:204][454]LogShaderCompilers: Display: ================================================
+[2023.10.27-04.07.46:347][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.10.27-04.07.46:515][454]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Normal' priority
+[2023.10.27-04.07.46:523][454]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2023.10.27-04.07.46:523][454]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.10.27-04.07.46:523][454]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.10.27-04.07.46:523][454]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.10.27-04.07.46:523][454]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.10.27-04.07.46:523][454]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.10.27-04.07.46:523][454]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.10.27-04.07.46:523][454]LogShaderCompilers: Display: Started 19 'Local' shader compile jobs with 'Normal' priority
+[2023.10.27-04.07.46:527][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LightFlicker" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset" SILENT=true
+[2023.10.27-04.07.46:536][454]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/M_LightFlicker15DE7BF24C0B18A7E729C1AA4EC99146.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset'
+[2023.10.27-04.07.46:556][454]AssetCheck: New page: Asset Save: M_LightFlicker
+[2023.10.27-04.07.46:556][454]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.10.27-04.07.46:565][454]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.07.47:477][508]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.27-04.07.47:494][509]MaterialEditorStats: Texture samplers: 4/16
+[2023.10.27-04.07.47:661][519]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.07.47:661][519]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.07.47:661][519]MaterialEditorStats: Texture samplers: 4/16
+[2023.10.27-04.08.46:967][155]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 6AECD957CCE13506617AA3F3619A5A66224478D1), compiling. 
+[2023.10.27-04.08.46:969][155]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: FDADC49193BABB8EC4356B40E2B1BDD9BE6CDB2C), compiling. 
+[2023.10.27-04.08.46:976][155]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.08.47:008][157]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.08.47:008][157]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.08.47:008][157]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.08.57:222][768]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: B5B0F4F30D82BF27281137F6845356FDD29043EF), compiling. 
+[2023.10.27-04.08.57:224][768]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 25241F6AED6463C0EFF4EB25B1EACFA08F47A711), compiling. 
+[2023.10.27-04.08.57:230][768]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.08.57:259][770]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.08.57:259][770]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.08.57:259][770]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.04:471][201]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: F6AFBFFAC74399D6375A9CB55CAEA9A09AFAE2A3), compiling. 
+[2023.10.27-04.09.04:473][201]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: A480F7C11BDE65CD979FD6F827C381FD1E8857D7), compiling. 
+[2023.10.27-04.09.04:478][201]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.04:510][203]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.09.04:510][203]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.09.04:510][203]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.10:152][541]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 11457FEC7EDF9BD76DE2A6189AB4E37406B0E43C), compiling. 
+[2023.10.27-04.09.10:155][541]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.10:186][543]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.09.10:186][543]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.09.10:186][543]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.11:509][622]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: A9364377A646536528C34E66125F76EFAA07A920), compiling. 
+[2023.10.27-04.09.11:513][622]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.11:543][624]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.09.11:543][624]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.09.11:543][624]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.13:897][764]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 9AD07E21A44FCD87D4D6C102BFE8622DA9E483D6), compiling. 
+[2023.10.27-04.09.13:905][764]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 6B8C6136AC2FAC2EAFCEA1F47AF78B2144D7D49E), compiling. 
+[2023.10.27-04.09.13:910][764]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.13:956][766]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.09.13:956][766]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.09.13:956][766]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.32:906][901]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 0084F418455623E14FBD3A8B4A4A7E5571D6574A), compiling. 
+[2023.10.27-04.09.32:915][901]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: D02E393BF3F6D4B0D0F7662F7D591229F6C650C9), compiling. 
+[2023.10.27-04.09.32:922][901]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.09.32:962][903]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.09.32:962][903]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.09.32:962][903]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.10.50:143][122]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 174BD1C5F40DC6AE5A74265ECA2834361B1F9CDF), compiling. 
+[2023.10.27-04.10.50:150][122]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.10.50:161][123]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.27-04.10.50:161][123]LogShaderCompilers: Display: Total job queries 115, among them cache hits 64 (55.65%)
+[2023.10.27-04.10.50:161][123]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 32 distinct outputs (78.05%)
+[2023.10.27-04.10.50:161][123]LogShaderCompilers: Display: RAM used: 0.15 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.10.27-04.10.50:161][123]LogShaderCompilers: Display: ================================================
+[2023.10.27-04.10.50:175][124]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.10.50:175][124]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.10.50:175][124]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.10.55:480][441]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: BDD808E25D9758A40D6A367C9B015A70B50959AF), compiling. 
+[2023.10.27-04.10.55:483][441]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 874CE7FBD08F894FE3405A4A98421AD3D87AE5C2), compiling. 
+[2023.10.27-04.10.55:486][441]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.10.55:508][443]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.10.55:508][443]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.10.55:508][443]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.10.57:838][582]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 7960CC74F76863A2FE6E9DB54828AA1A314A1781), compiling. 
+[2023.10.27-04.10.57:845][582]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.10.57:872][584]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.10.27-04.10.57:872][584]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.10.57:872][584]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.10.59:744][696]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 6A587646D46C64991A8781C701E5E252C1ADEAC2), compiling. 
+[2023.10.27-04.10.59:749][696]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.10.59:754][697]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.10.59:754][697]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.10.27-04.10.59:766][698]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.10.27-04.10.59:766][698]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.10.27-04.10.59:766][698]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.10.27-04.10.59:766][698]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.10.27-04.10.59:766][698]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.11.00:410][735]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.10.27-04.11.00:410][735]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.11.00:410][735]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.11.08:890][239]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: C284B3FEEB385E966DF8DE26A5061CFB8FA008EF), compiling. 
+[2023.10.27-04.11.08:893][239]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 2A4C3C5549DBE1E766B3908B9660387D9E7262D7), compiling. 
+[2023.10.27-04.11.08:894][239]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.11.08:923][241]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.10.27-04.11.08:923][241]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.11.08:923][241]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.11.11:058][368]LogMaterialEditor: Applying material M_LightFlicker
+[2023.10.27-04.11.11:334][368]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: AFAA26396B210A717A3A978E3311AC7892C77ACA), compiling. 
+[2023.10.27-04.11.11:371][368]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 0C159E7B52F2711C9398B513B0BE39A022AF5399), compiling. 
+[2023.10.27-04.11.11:392][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.10.27-04.11.11:399][368]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.11.11:617][368]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.10.27-04.11.11:617][368]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.11.11:617][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.27-04.11.11:629][368]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.11.11:670][370]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Normal' priority
+[2023.10.27-04.11.11:671][370]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2023.10.27-04.11.11:671][370]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.10.27-04.11.11:671][370]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.10.27-04.11.11:671][370]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.10.27-04.11.11:671][370]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.10.27-04.11.11:671][370]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.10.27-04.11.11:671][370]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.10.27-04.11.11:671][370]LogShaderCompilers: Display: Started 19 'Local' shader compile jobs with 'Normal' priority
+[2023.10.27-04.11.12:208][401]LogMaterialEditor: Saving and Compiling material M_LightFlicker
+[2023.10.27-04.11.12:781][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LightFlicker" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset" SILENT=true
+[2023.10.27-04.11.12:787][401]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/M_LightFlicker5E0F39F2489270B8FE6E179CA061A815.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset'
+[2023.10.27-04.11.12:803][401]AssetCheck: New page: Asset Save: M_LightFlicker
+[2023.10.27-04.11.12:803][401]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.10.27-04.11.12:803][401]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.10.27-04.11.12:803][401]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.11.12:803][401]MaterialEditorStats: Texture samplers: 4/16
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:031][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:032][665]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.11.34:135][665]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-04.11.34:248][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LightFlicker" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset" SILENT=true
+[2023.10.27-04.11.34:254][665]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/M_LightFlicker2D9EB5B94B7A062C6A4360B01F153515.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset'
+[2023.10.27-04.11.59:724][665]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-04.11.59:981][665]LogSourceControl: commit successful: [main 577a528] Made a Flicker light with the M_LightFlicker Material - AO
+[2023.10.27-04.12.00:046][665]SourceControl: [main 577a528] Made a Flicker light with the M_LightFlicker Material - AO
+[2023.10.27-04.12.00:046][665]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-04.12.00:057][665]SourceControl: Commited [main 577a528] Made a Flicker light with the M_LightFlicker Material - AO.
+[2023.10.27-04.12.00:079][666]AssetCheck: New page: Asset Save: M_LightFlicker
+[2023.10.27-04.12.00:079][666]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.10.27-04.13.19:757][915]LogContentBrowser: Deferred new asset file creation: M_LightFlicker_Inst
+[2023.10.27-04.13.19:771][915]LogContentBrowser: Creating deferred item: M_LightFlicker_Inst
+[2023.10.27-04.13.21:599][ 24]LogContentBrowser: Attempting asset rename: M_LightFlicker_Inst -> M_LightFlicker_Inst
+[2023.10.27-04.13.21:690][ 24]LogContentBrowser: End creating deferred item M_LightFlicker_Inst
+[2023.10.27-04.13.27:123][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-04.13.27:140][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.27-04.13.27:159][339]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1C06B5C824396B1E5DCCED982CDBC20A3.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-04.13.27:174][339]LogFileHelpers: Saving map 'Level1' took 0.052
+[2023.10.27-04.13.27:187][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LightFlicker_Inst" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker_Inst.uasset" SILENT=true
+[2023.10.27-04.13.27:192][339]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/M_LightFlicker_Inst92D71D0C42E562EC9A52B48F45CAF751.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker_Inst.uasset'
+[2023.10.27-04.13.27:360][339]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-04.13.27:360][339]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-04.13.27:360][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_LightFlicker_Inst.M_LightFlicker_Inst
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:372][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:373][509]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.13.30:477][509]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-04.13.30:645][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-04.13.30:667][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.27-04.13.30:678][509]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1E397F9364CCD86FCA9A1318D036AC50D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-04.13.30:692][509]LogFileHelpers: Saving map 'Level1' took 0.048
+[2023.10.27-04.13.30:692][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LightFlicker_Inst" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker_Inst.uasset" SILENT=true
+[2023.10.27-04.13.30:695][509]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/M_LightFlicker_InstF703DA2641C74ADF49009DBF59DC9159.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker_Inst.uasset'
+[2023.10.27-04.13.55:100][509]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-04.13.55:410][509]LogSourceControl: commit successful: [main e9705e8] Created a material instance of M_LightFlicker - AO
+[2023.10.27-04.13.55:532][509]SourceControl: [main e9705e8] Created a material instance of M_LightFlicker - AO
+[2023.10.27-04.13.55:532][509]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-04.13.55:532][509]SourceControl:  create mode 100644 BasicHorrorGame/Content/Materials/M_LightFlicker_Inst.uasset
+[2023.10.27-04.13.55:541][509]SourceControl: Commited [main e9705e8] Created a material instance of M_LightFlicker - AO.
+[2023.10.27-04.13.55:571][510]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-04.13.55:571][510]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-04.13.55:572][510]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_LightFlicker_Inst.M_LightFlicker_Inst
