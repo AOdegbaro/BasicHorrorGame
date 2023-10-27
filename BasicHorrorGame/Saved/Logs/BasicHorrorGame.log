@@ -3241,3 +3241,1401 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-05.25.40:955][ 95]AssetCheck: New page: Asset Save: multiple assets
 [2023.10.27-05.25.40:955][ 95]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_BuiltData.Level1_BuiltData
 [2023.10.27-05.25.40:955][ 95]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-05.27.21:308][775]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.27-05.27.21:338][775]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.27-05.27.32:504][445]LogContentBrowser: Attempting asset rename: NewFolder -> BlueprintComponents
+[2023.10.27-05.27.32:505][445]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.27-05.27.37:209][715]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.27-05.27.37:212][715]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.27-05.27.38:387][715]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.27-05.27.38:399][715]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.27-05.27.38:413][715]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.27-05.27.44:585][ 86]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_Movement
+[2023.10.27-05.27.44:684][ 86]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.27-05.27.48:154][285]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_MovementBB5FD07945A7766DCD6605BA7D6A09DD.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.27.48:313][285]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-05.27.48:313][285]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.27.51:841][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:841][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:841][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:841][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:841][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:842][486]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.27.51:946][486]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-05.27.52:063][486]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement1F969AEE4490BB7D04C89490B884F054.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.28.19:685][486]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-05.28.19:949][486]LogSourceControl: commit successful: [main da5fe0e] Added a new blueprint actor component and named it BPC_Movement - AO
+[2023.10.27-05.28.20:004][486]SourceControl: [main da5fe0e] Added a new blueprint actor component and named it BPC_Movement - AO
+[2023.10.27-05.28.20:004][486]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-05.28.20:004][486]SourceControl:  create mode 100644 BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset
+[2023.10.27-05.28.20:013][486]SourceControl: Commited [main da5fe0e] Added a new blueprint actor component and named it BPC_Movement - AO.
+[2023.10.27-05.28.20:042][487]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-05.28.20:042][487]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.29.12:981][891]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.27-05.29.12:981][891]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-05.29.12:981][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.29.14:064][950]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.29.20:334][300]LogSlate: Window 'BPC_Movement' being destroyed
+[2023.10.27-05.29.26:998][695]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-05.29.51:618][134]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.29.51:652][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.10.27-05.29.55:800][380]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.27-05.29.55:810][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-05.29.55:810][380]PIE: New page: PIE session: Level1 (Oct 26, 2023, 7:29:55 PM)
+[2023.10.27-05.29.55:810][380]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.29.55:813][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002759s)
+[2023.10.27-05.29.55:814][380]LogAIModule: Creating AISystem for world Level1
+[2023.10.27-05.29.55:814][380]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2023.10.27-05.29.55:814][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003909s)
+[2023.10.27-05.29.55:836][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.10.27-05.29.55:837][380]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.10.27-05.29.55:838][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-05.29.55:838][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-05.29.55:838][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-05.29.55:838][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-05.29.55:838][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-05.29.55:838][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-05.29.55:838][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-05.29.55:838][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-05.29.55:838][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-05.29.55:838][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-05.29.55:838][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-05.29.55:838][380]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.27-05.29.55:841][380]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.27-05.29.55:841][380]LogAudioMixer: Display: 1: FrontRight
+[2023.10.27-05.29.55:866][380]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.27-05.29.55:867][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-05.29.55:867][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-05.29.55:867][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-05.29.55:868][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.27-05.29.55:868][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.27-05.29.55:868][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.27-05.29.55:869][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.27-05.29.55:869][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.27-05.29.55:869][380]LogInit: FAudioDevice initialized.
+[2023.10.27-05.29.55:869][380]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level1'.
+[2023.10.27-05.29.55:874][380]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.27-05.29.55:875][380]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.27-00.29.55
+[2023.10.27-05.29.55:876][380]LogWorld: Bringing up level for play took: 0.000954
+[2023.10.27-05.29.55:876][380]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.10.27-05.29.55:879][380]PIE: Server logged in
+[2023.10.27-05.29.55:880][380]PIE: Play in editor total start time 0.072 seconds.
+[2023.10.27-05.32.44:771][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.32.44:771][479]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.32.44:771][479]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-05.32.44:771][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.32.44:780][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-05.32.44:791][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.32.44:811][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-05.32.44:811][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.32.44:812][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.32.44:831][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.32.44:834][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.10.27-05.32.44:866][480]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.10.27-05.34.44:595][263]BlueprintLog: New page: Compile L1_PlayerCharacter
+[2023.10.27-05.34.44:647][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.10.27-05.34.45:443][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-05.34.45:472][302]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacter4109D19243EDD3D14348CCAF5D57B643.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-05.34.45:491][302]AssetCheck: New page: Asset Save: L1_PlayerCharacter
+[2023.10.27-05.34.45:491][302]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-05.34.48:676][491]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.27-05.34.48:686][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-05.34.48:686][491]PIE: New page: PIE session: Level1 (Oct 26, 2023, 7:34:48 PM)
+[2023.10.27-05.34.48:686][491]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.34.48:689][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002809s)
+[2023.10.27-05.34.48:689][491]LogAIModule: Creating AISystem for world Level1
+[2023.10.27-05.34.48:690][491]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2023.10.27-05.34.48:690][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003899s)
+[2023.10.27-05.34.48:713][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.10.27-05.34.48:714][491]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.10.27-05.34.48:714][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-05.34.48:714][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-05.34.48:714][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-05.34.48:714][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-05.34.48:714][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-05.34.48:714][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-05.34.48:714][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-05.34.48:714][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-05.34.48:714][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-05.34.48:714][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-05.34.48:714][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-05.34.48:714][491]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.27-05.34.48:718][491]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.27-05.34.48:718][491]LogAudioMixer: Display: 1: FrontRight
+[2023.10.27-05.34.48:744][491]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.27-05.34.48:745][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-05.34.48:745][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-05.34.48:745][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-05.34.48:745][491]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.27-05.34.48:745][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.27-05.34.48:745][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.27-05.34.48:746][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.27-05.34.48:746][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.27-05.34.48:746][491]LogInit: FAudioDevice initialized.
+[2023.10.27-05.34.48:746][491]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1'.
+[2023.10.27-05.34.48:755][491]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.27-05.34.48:756][491]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.27-00.34.48
+[2023.10.27-05.34.48:756][491]LogWorld: Bringing up level for play took: 0.000925
+[2023.10.27-05.34.48:756][491]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.10.27-05.34.48:758][491]PIE: Server logged in
+[2023.10.27-05.34.48:759][491]PIE: Play in editor total start time 0.076 seconds.
+[2023.10.27-05.34.48:759][491]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:778][492]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:796][493]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:811][494]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:828][495]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:843][496]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:861][497]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:877][498]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:894][499]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:912][500]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:927][501]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:944][502]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:963][503]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:978][504]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.48:994][505]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:011][506]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:028][507]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:045][508]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:062][509]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:079][510]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:095][511]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:112][512]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:129][513]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:144][514]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:161][515]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:178][516]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:194][517]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:211][518]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:227][519]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:244][520]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:261][521]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:277][522]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:295][523]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:311][524]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:327][525]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:344][526]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:361][527]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:377][528]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:394][529]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:411][530]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:427][531]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:444][532]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:461][533]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:477][534]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:494][535]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:511][536]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:528][537]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:544][538]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:560][539]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:577][540]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:594][541]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:611][542]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:627][543]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:643][544]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:661][545]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:678][546]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:694][547]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:711][548]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:727][549]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:744][550]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:761][551]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:777][552]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:795][553]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:811][554]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:828][555]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:844][556]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:861][557]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:878][558]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:894][559]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:910][560]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:927][561]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:944][562]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:961][563]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:977][564]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.49:994][565]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:010][566]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:027][567]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:044][568]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:060][569]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:077][570]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:094][571]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:111][572]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:132][573]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:145][574]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:160][575]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:177][576]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:194][577]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:211][578]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:228][579]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:244][580]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:261][581]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:278][582]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:294][583]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:311][584]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:328][585]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:344][586]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:361][587]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:378][588]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:395][589]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:411][590]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:429][591]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:444][592]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:462][593]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:477][594]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:494][595]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:511][596]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:527][597]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:544][598]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:560][599]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:578][600]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:594][601]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:611][602]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:627][603]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:645][604]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:662][605]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:677][606]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:695][607]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:712][608]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:728][609]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:745][610]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:761][611]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:777][612]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:794][613]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:811][614]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:828][615]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:845][616]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:861][617]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:878][618]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:895][619]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:912][620]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:929][621]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:945][622]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:961][623]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:978][624]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.50:995][625]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:011][626]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:028][627]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:045][628]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:061][629]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:078][630]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:095][631]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:111][632]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:128][633]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:144][634]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:161][635]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:178][636]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:195][637]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:211][638]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:228][639]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:245][640]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:261][641]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:278][642]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:296][643]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:311][644]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:328][645]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:345][646]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:362][647]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:378][648]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:394][649]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:411][650]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:428][651]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:445][652]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:461][653]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:477][654]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:494][655]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:511][656]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:528][657]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:544][658]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:561][659]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:577][660]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:596][661]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:611][662]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:628][663]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:645][664]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:661][665]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:677][666]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:694][667]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:711][668]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:727][669]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:744][670]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:760][671]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:777][672]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:794][673]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:810][674]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:827][675]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:844][676]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:861][677]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:878][678]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:895][679]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:911][680]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:927][681]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:944][682]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:960][683]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:977][684]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.51:994][685]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:011][686]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:027][687]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:044][688]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:061][689]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:078][690]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:095][691]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:110][692]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:128][693]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:145][694]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:162][695]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:178][696]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:194][697]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:212][698]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:227][699]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:244][700]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:261][701]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:277][702]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:294][703]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:311][704]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:328][705]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:345][706]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:361][707]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:378][708]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:394][709]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:411][710]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:428][711]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:445][712]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:461][713]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:478][714]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:494][715]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:510][716]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:527][717]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:545][718]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:562][719]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:579][720]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:595][721]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:611][722]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:628][723]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:644][724]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:661][725]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:677][726]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:694][727]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:711][728]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:727][729]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:744][730]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:761][731]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:778][732]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:794][733]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:811][734]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:827][735]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:844][736]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:860][737]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:878][738]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:895][739]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:912][740]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:928][741]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:945][742]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:961][743]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:977][744]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.52:994][745]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:011][746]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:028][747]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:045][748]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:061][749]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:077][750]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:095][751]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:110][752]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:128][753]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:144][754]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:161][755]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:178][756]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:195][757]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:212][758]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:229][759]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:245][760]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:261][761]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:279][762]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:295][763]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:312][764]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:328][765]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:345][766]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:362][767]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:378][768]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:394][769]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:411][770]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:427][771]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:445][772]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:461][773]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:478][774]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:495][775]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:511][776]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:527][777]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:544][778]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:560][779]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:577][780]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:594][781]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:611][782]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:628][783]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:645][784]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:661][785]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:677][786]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:694][787]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:711][788]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:727][789]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:744][790]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:761][791]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:777][792]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:794][793]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:810][794]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:827][795]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:844][796]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:860][797]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:877][798]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:894][799]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:911][800]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:927][801]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:944][802]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:960][803]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:977][804]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.53:994][805]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:010][806]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:027][807]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:044][808]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:061][809]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:077][810]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:094][811]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:111][812]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:128][813]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:144][814]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:161][815]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:177][816]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:194][817]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:211][818]LogBlueprintUserMessages: [BPC_Movement] BPC_Movement is active!
+[2023.10.27-05.34.54:251][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.34.54:252][818]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-05.34.54:252][818]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-05.34.54:252][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.34.54:259][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-05.34.54:270][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-05.34.54:291][818]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-05.34.54:291][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.34.54:292][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-05.34.54:312][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-05.34.54:315][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.10.27-05.34.54:344][819]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.10.27-05.37.32:468][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.27-05.37.32:469][291]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.026
+[2023.10.27-05.37.32:470][291]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Movement] ([2] browsable assets)...
+[2023.10.27-05.37.32:470][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Movement]
+[2023.10.27-05.37.32:475][291]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement_Auto447FE43A3432FC3120B145CA8D54408B1.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Movement_Auto4.uasset'
+[2023.10.27-05.37.32:477][291]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.10.27-05.38.05:979][584]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement7402D5DB4223BAD3723F0C9FBA51FCC1.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.38.06:000][584]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-05.38.06:001][584]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:111][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:112][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:112][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:112][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:112][759]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.38.09:215][759]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-05.38.09:424][759]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement39842A7F4ED7512346EF4AB7A378D547.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.38.09:426][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-05.38.09:456][759]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacterA3A388314F3660C9F982048DB076FF06.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-05.38.49:426][759]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-05.38.49:808][759]LogSourceControl: commit successful: [main 8d1f7b7] Added a print string for debugging and test to see if BPC_Movement was active after attaching it to the L1_PlayerCharacter - AO
+[2023.10.27-05.38.49:931][759]SourceControl: [main 8d1f7b7] Added a print string for debugging and test to see if BPC_Movement was active after attaching it to the L1_PlayerCharacter - AO
+[2023.10.27-05.38.49:931][759]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-05.38.49:941][759]SourceControl: Commited [main 8d1f7b7] Added a print string for debugging and test to see if BPC_Movement was active after attaching it to the L1_PlayerCharacter - AO.
+[2023.10.27-05.38.49:973][760]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-05.38.49:973][760]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-05.38.49:973][760]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.40.26:169][622]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.40.26:226][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.10.27-05.41.09:302][183]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.41.09:343][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.10.27-05.41.10:164][224]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_MovementFFD5B2C74AA9FA088E515B9F94B405ED.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.41.10:183][224]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-05.41.10:183][224]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.43.44:336][778]BlueprintLog: New page: Compile L1_PlayerCharacter
+[2023.10.27-05.43.44:390][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.10.27-05.44.10:637][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-05.44.10:667][344]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacter5E620B364A98DCD3933CA2B1AE19D35D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-05.44.10:687][344]AssetCheck: New page: Asset Save: L1_PlayerCharacter
+[2023.10.27-05.44.10:687][344]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-05.46.41:076][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-05.46.41:108][350]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacterD9EA669A4B87A9B27A15EB9DA945E800.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-05.46.41:125][350]AssetCheck: New page: Asset Save: L1_PlayerCharacter
+[2023.10.27-05.46.41:127][350]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-05.47.35:320][461]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.47.35:363][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.10.27-05.47.37:840][607]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.47.37:880][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.10.27-05.47.38:598][641]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement90C260244BB88655C97E04A798DCF141.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.47.38:612][641]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-05.47.38:612][641]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.48.25:977][564]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.48.26:018][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.10.27-05.48.26:880][606]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_MovementB24D88A24CA41FBE555E1FAF94F2984F.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.48.26:895][606]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-05.48.26:895][606]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.48.48:915][922]BlueprintLog: New page: Compile L1_PlayerCharacter
+[2023.10.27-05.48.48:963][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.10.27-05.49.27:207][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.10.27-05.49.27:208][892]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.040
+[2023.10.27-05.49.27:208][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameBP/Level1/L1_PlayerCharacter] ([2] browsable assets)...
+[2023.10.27-05.49.27:208][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBP/Level1/L1_PlayerCharacter]
+[2023.10.27-05.49.27:242][892]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacter_Auto5CA6D552B4360361951792CBDCE277A0A.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Autosaves/Game/GameBP/Level1/L1_PlayerCharacter_Auto5.uasset'
+[2023.10.27-05.49.27:243][892]LogFileHelpers: Auto-saving content packages took 0.035
+[2023.10.27-05.50.44:313][906]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.50.44:357][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.10.27-05.52.46:703][573]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.52.46:751][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.10.27-05.53.36:253][311]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.53.36:295][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.10.27-05.53.37:098][349]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_MovementA916AC864154ED261855D2916015B287.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.53.37:114][349]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-05.53.37:114][349]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.55.07:652][857]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-05.55.07:703][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.10.27-05.55.08:820][914]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement3526C4BB45C879AF203D7E9920400AFE.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.55.08:843][914]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-05.55.08:843][914]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.55.11:520][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-05.55.11:551][ 67]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacter78C2E2A341B3AB1B38F520A95898E61B.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-05.55.11:568][ 67]AssetCheck: New page: Asset Save: L1_PlayerCharacter
+[2023.10.27-05.55.11:569][ 67]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:671][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:672][241]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.14:787][241]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-05.55.14:978][241]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement5539BC1C44D2A395E0C079A2EE15ADDA.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.55.14:979][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-05.55.15:012][241]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacter619FFDDE4FBB9A6F43219986B4AFA756.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-05.55.20:771][241]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-05.55.20:797][242]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-05.55.20:797][242]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-05.55.20:797][242]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-05.55.41:781][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:781][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:781][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:781][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:781][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:781][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:781][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:781][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:781][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:782][488]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-05.55.41:884][488]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-05.55.42:094][488]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_MovementD14D596145588B3A46CB3C936E01A7E1.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-05.55.42:095][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-05.55.42:125][488]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacter542CC4B445D1F74825079189E4BC895F.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-05.59.31:631][488]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-05.59.31:976][488]LogSourceControl: commit successful: [main 3f7c3e1] On initialize for L1_Player added a sequence so we could call the initialize function from BPC_Movement without having to cast. Made three float variables in BPC_Movement with was instance editable so that we can change/ customize in L1_PlayerCharacter: SprintSpeed, WalkingSpeed and MaxStamina. Created a Custom Event called StartSprint in BPC_Movement that will check the player's current stamina and see if its greater than their MinStamina - AO
+[2023.10.27-05.59.32:099][488]SourceControl: [main 3f7c3e1] On initialize for L1_Player added a sequence so we could call the initialize function from BPC_Movement without having to cast. Made three float variables in BPC_Movement with was instance editable so that we can change/ customize in L1_PlayerCharacter: SprintSpeed, WalkingSpeed and MaxStamina. Created a Custom Event called StartSprint in BPC_Movement that will check the player's current stamina and see if its greater than their MinStamina - AO
+[2023.10.27-05.59.32:099][488]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-05.59.32:109][488]SourceControl: Commited [main 3f7c3e1] On initialize for L1_Player added a sequence so we could call the initialize function from BPC_Movement without having to cast. Made three float variables in BPC_Movement with was instance editable so that we can change/ customize in L1_PlayerCharacter: SprintSpeed, WalkingSpeed and MaxStamina. Created a Custom Event called StartSprint in BPC_Movement that will check the player's current stamina and see if its greater than their MinStamina - AO.
+[2023.10.27-05.59.32:141][489]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-05.59.32:141][489]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-05.59.32:141][489]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.01.12:213][632]BlueprintLog: New page: Collapse to Function
+[2023.10.27-06.01.51:653][986]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.01.51:701][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.10.27-06.01.52:480][ 22]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement0889D840400E6C20944AAAB9D1B3FA14.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.01.52:500][ 22]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-06.01.52:500][ 22]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.02.16:977][684]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.02.17:017][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.10.27-06.02.42:781][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.10.27-06.02.42:782][832]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.024
+[2023.10.27-06.02.42:782][832]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Movement] ([2] browsable assets)...
+[2023.10.27-06.02.42:782][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Movement]
+[2023.10.27-06.02.42:795][832]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement_Auto6981DB8214C1032FF09C3FFB8ACAED9ED.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Movement_Auto6.uasset'
+[2023.10.27-06.02.42:795][832]LogFileHelpers: Auto-saving content packages took 0.013
+[2023.10.27-06.03.00:403][724]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.03.00:444][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.10.27-06.04.24:875][861]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.04.24:915][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.10.27-06.04.25:645][895]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement6998BF0742D94670FA7770B41B3B5CE4.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.04.25:663][895]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-06.04.25:663][895]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.05.26:444][164]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.05.26:487][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.10.27-06.05.27:165][195]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement4255B6CF4DF5CBB4AAFA359C26EE7AA0.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.05.27:182][195]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-06.05.27:182][195]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.07.01:872][993]BlueprintLog: New page: Compile L1_PlayerCharacter
+[2023.10.27-06.07.01:928][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.10.27-06.07.02:556][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-06.07.02:587][ 20]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacterB0EAC33847C03AD8E4E62EB4A4EE1407.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-06.07.02:602][ 20]AssetCheck: New page: Asset Save: L1_PlayerCharacter
+[2023.10.27-06.07.02:603][ 20]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-06.07.55:433][224]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.07.55:485][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.10.27-06.07.56:132][251]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement17F7F51E4273FFFF657EF18487EFD7B3.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.07.56:149][251]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-06.07.56:149][251]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.07.59:996][480]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.27-06.08.00:006][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-06.08.00:006][480]PIE: New page: PIE session: Level1 (Oct 26, 2023, 8:08:00 PM)
+[2023.10.27-06.08.00:006][480]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-06.08.00:010][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003147s)
+[2023.10.27-06.08.00:011][480]LogAIModule: Creating AISystem for world Level1
+[2023.10.27-06.08.00:011][480]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2023.10.27-06.08.00:011][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004493s)
+[2023.10.27-06.08.00:037][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.10.27-06.08.00:038][480]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.10.27-06.08.00:038][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-06.08.00:038][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-06.08.00:038][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-06.08.00:038][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-06.08.00:038][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-06.08.00:038][480]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-06.08.00:038][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-06.08.00:038][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-06.08.00:039][480]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-06.08.00:039][480]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-06.08.00:039][480]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-06.08.00:039][480]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.27-06.08.00:042][480]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.27-06.08.00:042][480]LogAudioMixer: Display: 1: FrontRight
+[2023.10.27-06.08.00:071][480]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.27-06.08.00:071][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-06.08.00:071][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-06.08.00:071][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-06.08.00:072][480]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.27-06.08.00:072][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.27-06.08.00:072][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.27-06.08.00:073][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.27-06.08.00:073][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.27-06.08.00:073][480]LogInit: FAudioDevice initialized.
+[2023.10.27-06.08.00:073][480]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1'.
+[2023.10.27-06.08.00:081][480]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.27-06.08.00:083][480]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.27-01.08.00
+[2023.10.27-06.08.00:083][480]LogWorld: Bringing up level for play took: 0.001030
+[2023.10.27-06.08.00:083][480]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.10.27-06.08.00:087][480]PIE: Server logged in
+[2023.10.27-06.08.00:088][480]PIE: Play in editor total start time 0.085 seconds.
+[2023.10.27-06.08.03:942][711]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.04:943][771]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.05:943][831]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.06:943][891]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.07:943][951]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.08:943][ 11]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.09:943][ 71]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.10:944][131]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.11:944][191]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.12:943][251]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.13:944][311]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.14:943][371]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.15:943][431]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.16:944][491]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.17:944][551]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.18:943][611]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.19:944][671]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.20:944][731]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.21:944][791]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.22:944][851]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.23:944][911]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.24:944][971]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.25:944][ 31]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.26:943][ 91]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.27:944][151]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.28:943][211]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.29:945][271]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.30:945][331]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.31:944][390]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.32:943][450]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.33:943][510]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.34:943][570]LogBlueprintUserMessages: [BPC_Movement] Timer was called!
+[2023.10.27-06.08.35:039][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-06.08.35:039][574]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-06.08.35:039][574]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.08.35:039][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-06.08.35:049][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-06.08.35:060][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-06.08.35:080][574]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-06.08.35:081][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-06.08.35:082][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-06.08.35:106][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-06.08.35:109][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.10.27-06.08.35:142][575]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.10.27-06.08.36:422][650]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.27-06.08.36:432][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-06.08.36:432][650]PIE: New page: PIE session: Level1 (Oct 26, 2023, 8:08:36 PM)
+[2023.10.27-06.08.36:432][650]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-06.08.36:435][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002611s)
+[2023.10.27-06.08.36:435][650]LogAIModule: Creating AISystem for world Level1
+[2023.10.27-06.08.36:435][650]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2023.10.27-06.08.36:436][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003668s)
+[2023.10.27-06.08.36:459][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.10.27-06.08.36:460][650]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.10.27-06.08.36:460][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-06.08.36:460][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-06.08.36:460][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-06.08.36:460][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-06.08.36:460][650]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-06.08.36:460][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-06.08.36:460][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-06.08.36:460][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-06.08.36:461][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-06.08.36:461][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-06.08.36:461][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-06.08.36:461][650]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.27-06.08.36:464][650]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.27-06.08.36:464][650]LogAudioMixer: Display: 1: FrontRight
+[2023.10.27-06.08.36:490][650]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.27-06.08.36:490][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-06.08.36:490][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-06.08.36:490][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-06.08.36:490][650]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.27-06.08.36:490][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.27-06.08.36:490][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.27-06.08.36:492][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.27-06.08.36:492][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.27-06.08.36:492][650]LogInit: FAudioDevice initialized.
+[2023.10.27-06.08.36:492][650]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2023.10.27-06.08.36:501][650]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.27-06.08.36:502][650]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.27-01.08.36
+[2023.10.27-06.08.36:503][650]LogWorld: Bringing up level for play took: 0.000937
+[2023.10.27-06.08.36:503][650]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.10.27-06.08.36:506][650]PIE: Server logged in
+[2023.10.27-06.08.36:507][650]PIE: Play in editor total start time 0.077 seconds.
+[2023.10.27-06.08.43:319][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-06.08.43:319][ 56]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-06.08.43:320][ 56]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.08.43:320][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-06.08.43:330][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-06.08.43:340][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-06.08.43:362][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-06.08.43:362][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-06.08.43:363][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-06.08.43:400][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.27-06.08.43:431][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.10.27-06.09.29:414][ 88]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.27-06.09.31:171][191]BlueprintLog: New page: Compile L1_PlayerCharacter
+[2023.10.27-06.09.31:226][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.10.27-06.09.44:248][967]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.09.44:292][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.10.27-06.09.45:013][  1]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_MovementA79CC35E4F7302944384789430910C84.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.09.45:030][  1]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-06.09.45:030][  1]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.11.25:849][223]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.11.25:890][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.10.27-06.11.28:214][349]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement4F5476FC444F65CF3622818ACF976857.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.11.28:232][349]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-06.11.28:232][349]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.13.50:349][896]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.13.50:390][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.10.27-06.13.51:245][937]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement7D1926AC462F8A74F54627B40EFA088D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.13.51:263][937]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-06.13.51:263][937]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.14.16:361][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.10.27-06.14.16:362][ 66]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.029
+[2023.10.27-06.14.16:362][ 66]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameBP/Level1/L1_PlayerCharacter] ([2] browsable assets)...
+[2023.10.27-06.14.16:362][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBP/Level1/L1_PlayerCharacter]
+[2023.10.27-06.14.16:395][ 66]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacter_Auto706D4A7F14A9D9F60DEFB0EB366215F71.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Autosaves/Game/GameBP/Level1/L1_PlayerCharacter_Auto7.uasset'
+[2023.10.27-06.14.16:396][ 66]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.10.27-06.15.36:156][176]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.15.36:198][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.10.27-06.15.36:883][207]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_MovementB72B0D4A4604089061FCBFA6CA12D2A6.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.15.36:902][207]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-06.15.36:902][207]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.17.01:523][936]BlueprintLog: New page: Compile BPC_Movement
+[2023.10.27-06.17.01:565][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.10.27-06.17.02:950][  9]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement88707D4E4C8EC6A7F6FCE99048BD5711.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.17.02:966][  9]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.10.27-06.17.02:966][  9]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.21.23:448][ 27]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.10.27-06.22.01:486][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-06.22.01:516][274]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacter4713B267416FB604DE94758A70608DC3.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-06.22.01:534][274]AssetCheck: New page: Asset Save: L1_PlayerCharacter
+[2023.10.27-06.22.01:534][274]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:180][482]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-06.22.05:284][482]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-06.22.05:472][482]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BPC_Movement9A9410F24DD1C1DA1739509D8138B63D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.27-06.22.05:473][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_PlayerCharacter" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset" SILENT=true
+[2023.10.27-06.22.05:501][482]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/L1_PlayerCharacterE45DA6DB4C1DFD50D5CF89AABBCA10C7.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/GameBP/Level1/L1_PlayerCharacter.uasset'
+[2023.10.27-06.23.00:007][482]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-06.23.00:430][482]LogSourceControl: commit successful: [main 9e03fa1] Added two Custom Events to BPC_Movement: SprintTimer and SprintStop. Added new action mapping to project settings called Sprint. - AO
+[2023.10.27-06.23.00:597][482]SourceControl: [main 9e03fa1] Added two Custom Events to BPC_Movement: SprintTimer and SprintStop. Added new action mapping to project settings called Sprint. - AO
+[2023.10.27-06.23.00:597][482]SourceControl:  3 files changed, 1 insertion(+)
+[2023.10.27-06.23.00:609][482]SourceControl: Commited [main 9e03fa1] Added two Custom Events to BPC_Movement: SprintTimer and SprintStop. Added new action mapping to project settings called Sprint. - AO.
+[2023.10.27-06.23.00:639][483]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-06.23.00:639][483]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-06.23.00:639][483]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.27-06.23.17:470][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.10.27-06.23.17:497][480]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.23.17:497][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-06.23.17:592][480]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.23.17:592][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-06.23.17:695][480]LogSlate: Window 'BasicHorrorGame - Unreal Editor' being destroyed
+[2023.10.27-06.23.17:912][481]Cmd: QUIT_EDITOR
+[2023.10.27-06.23.17:912][481]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.10.27-06.23.17:920][481]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.10.27-06.23.18:430][481]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.10.27-06.23.18:430][481]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.10.27-06.23.18:430][481]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2023.10.27-06.23.18:430][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-06.23.18:432][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-06.23.18:498][481]LogAudio: Display: Audio Device Manager Shutdown
+[2023.10.27-06.23.18:499][481]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.10.27-06.23.18:509][481]LogExit: Preparing to exit.
+[2023.10.27-06.23.18:635][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.10.27-06.23.18:854][481]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.23.18:855][481]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.23.18:857][481]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.23.18:859][481]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.23.18:861][481]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.23.18:862][481]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.23.18:934][481]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.10.27-06.23.18:955][481]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-06.23.18:959][481]LogExit: Editor shut down
+[2023.10.27-06.23.18:962][481]LogExit: Transaction tracking system shut down
+[2023.10.27-06.23.19:440][481]LogExit: Object subsystem successfully closed.
+[2023.10.27-06.23.19:461][481]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.27-06.23.19:461][481]LogShaderCompilers: Display: Total job queries 157, among them cache hits 83 (52.87%)
+[2023.10.27-06.23.19:461][481]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 44 distinct outputs (68.75%)
+[2023.10.27-06.23.19:461][481]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.10.27-06.23.19:461][481]LogShaderCompilers: Display: ================================================
+[2023.10.27-06.23.19:490][481]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.10.27-06.23.19:529][481]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (870)
+[2023.10.27-06.23.19:529][481]LogModuleManager: Shutting down and abandoning module BlueprintGraph (868)
+[2023.10.27-06.23.19:529][481]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (866)
+[2023.10.27-06.23.19:529][481]LogModuleManager: Shutting down and abandoning module Voice (864)
+[2023.10.27-06.23.19:529][481]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (862)
+[2023.10.27-06.23.19:529][481]LogModuleManager: Shutting down and abandoning module AddContentDialog (860)
+[2023.10.27-06.23.19:532][481]LogModuleManager: Shutting down and abandoning module WidgetCarousel (859)
+[2023.10.27-06.23.19:532][481]LogModuleManager: Shutting down and abandoning module EditorWidgets (856)
+[2023.10.27-06.23.19:532][481]LogModuleManager: Shutting down and abandoning module SceneOutliner (854)
+[2023.10.27-06.23.19:532][481]LogModuleManager: Shutting down and abandoning module StatsViewer (852)
+[2023.10.27-06.23.19:532][481]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (850)
+[2023.10.27-06.23.19:532][481]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (848)
+[2023.10.27-06.23.19:532][481]LogModuleManager: Shutting down and abandoning module AutomationWorker (846)
+[2023.10.27-06.23.19:532][481]LogModuleManager: Shutting down and abandoning module OculusMR (844)
+[2023.10.27-06.23.19:532][481]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (842)
+[2023.10.27-06.23.19:533][481]LogModuleManager: Shutting down and abandoning module TakeRecorder (841)
+[2023.10.27-06.23.19:534][481]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (838)
+[2023.10.27-06.23.19:534][481]LogModuleManager: Shutting down and abandoning module TakesCore (836)
+[2023.10.27-06.23.19:534][481]LogModuleManager: Shutting down and abandoning module OpenXRInput (834)
+[2023.10.27-06.23.19:534][481]LogModuleManager: Shutting down and abandoning module GooglePADEditor (832)
+[2023.10.27-06.23.19:534][481]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (830)
+[2023.10.27-06.23.19:534][481]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (828)
+[2023.10.27-06.23.19:535][481]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2023.10.27-06.23.19:535][481]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2023.10.27-06.23.19:535][481]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (822)
+[2023.10.27-06.23.19:535][481]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2023.10.27-06.23.19:535][481]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2023.10.27-06.23.19:535][481]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2023.10.27-06.23.19:535][481]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (814)
+[2023.10.27-06.23.19:536][481]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (812)
+[2023.10.27-06.23.19:536][481]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (810)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (808)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module SequenceRecorder (807)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (804)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (802)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (800)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (798)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (796)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (788)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (786)
+[2023.10.27-06.23.19:537][481]LogModuleManager: Shutting down and abandoning module PlanarCut (784)
+[2023.10.27-06.23.19:538][481]LogModuleManager: Shutting down and abandoning module CharacterAI (782)
+[2023.10.27-06.23.19:538][481]LogModuleManager: Shutting down and abandoning module TextureAlignMode (780)
+[2023.10.27-06.23.19:538][481]LogModuleManager: Shutting down and abandoning module BspMode (778)
+[2023.10.27-06.23.19:538][481]LogModuleManager: Shutting down and abandoning module GeometryMode (776)
+[2023.10.27-06.23.19:538][481]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (774)
+[2023.10.27-06.23.19:539][481]LogModuleManager: Shutting down and abandoning module SmartSnapping (772)
+[2023.10.27-06.23.19:539][481]LogModuleManager: Shutting down and abandoning module SessionServices (770)
+[2023.10.27-06.23.19:543][481]LogModuleManager: Shutting down and abandoning module MeshPaint (768)
+[2023.10.27-06.23.19:544][481]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (766)
+[2023.10.27-06.23.19:544][481]LogModuleManager: Shutting down and abandoning module FoliageEdit (764)
+[2023.10.27-06.23.19:544][481]LogModuleManager: Shutting down and abandoning module LandscapeEditor (762)
+[2023.10.27-06.23.19:545][481]LogModuleManager: Shutting down and abandoning module MeshPaintMode (760)
+[2023.10.27-06.23.19:545][481]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (758)
+[2023.10.27-06.23.19:545][481]LogModuleManager: Shutting down and abandoning module ActorPickerMode (756)
+[2023.10.27-06.23.19:545][481]LogModuleManager: Shutting down and abandoning module PlacementMode (754)
+[2023.10.27-06.23.19:546][481]LogModuleManager: Shutting down and abandoning module ViewportSnapping (752)
+[2023.10.27-06.23.19:546][481]LogModuleManager: Shutting down and abandoning module ViewportInteraction (750)
+[2023.10.27-06.23.19:546][481]LogModuleManager: Shutting down and abandoning module ClothPainter (748)
+[2023.10.27-06.23.19:547][481]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (747)
+[2023.10.27-06.23.19:547][481]LogModuleManager: Shutting down and abandoning module LogVisualizer (744)
+[2023.10.27-06.23.19:548][481]LogModuleManager: Shutting down and abandoning module IntroTutorials (742)
+[2023.10.27-06.23.19:548][481]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (741)
+[2023.10.27-06.23.19:549][481]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (738)
+[2023.10.27-06.23.19:549][481]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (736)
+[2023.10.27-06.23.19:549][481]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (734)
+[2023.10.27-06.23.19:549][481]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (733)
+[2023.10.27-06.23.20:344][481]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (730)
+[2023.10.27-06.23.20:344][481]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (728)
+[2023.10.27-06.23.20:344][481]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (726)
+[2023.10.27-06.23.20:344][481]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (724)
+[2023.10.27-06.23.20:344][481]LogModuleManager: Shutting down and abandoning module TraceInsights (722)
+[2023.10.27-06.23.20:347][481]MemoryProfiler: Shutdown
+[2023.10.27-06.23.20:347][481]NetworkingProfiler: Shutdown
+[2023.10.27-06.23.20:347][481]LoadingProfiler: Shutdown
+[2023.10.27-06.23.20:348][481]TimingProfiler: Shutdown
+[2023.10.27-06.23.20:349][481]LogModuleManager: Shutting down and abandoning module TraceServices (721)
+[2023.10.27-06.23.20:350][481]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (718)
+[2023.10.27-06.23.20:350][481]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (716)
+[2023.10.27-06.23.20:350][481]LogModuleManager: Shutting down and abandoning module InputBindingEditor (714)
+[2023.10.27-06.23.20:351][481]LogModuleManager: Shutting down and abandoning module MergeActors (712)
+[2023.10.27-06.23.20:351][481]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (710)
+[2023.10.27-06.23.20:351][481]LogModuleManager: Shutting down and abandoning module LocalizationService (709)
+[2023.10.27-06.23.20:351][481]LogModuleManager: Shutting down and abandoning module HardwareTargeting (706)
+[2023.10.27-06.23.20:352][481]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (704)
+[2023.10.27-06.23.20:352][481]LogModuleManager: Shutting down and abandoning module UndoHistory (702)
+[2023.10.27-06.23.20:352][481]LogModuleManager: Shutting down and abandoning module XmlParser (700)
+[2023.10.27-06.23.20:352][481]LogModuleManager: Shutting down and abandoning module Blutility (698)
+[2023.10.27-06.23.20:352][481]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (696)
+[2023.10.27-06.23.20:352][481]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (695)
+[2023.10.27-06.23.20:353][481]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (692)
+[2023.10.27-06.23.20:353][481]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (691)
+[2023.10.27-06.23.20:353][481]LogModuleManager: Shutting down and abandoning module SettingsEditor (688)
+[2023.10.27-06.23.20:353][481]LogModuleManager: Shutting down and abandoning module ProjectLauncher (686)
+[2023.10.27-06.23.20:353][481]LogModuleManager: Shutting down and abandoning module SessionFrontend (684)
+[2023.10.27-06.23.20:353][481]LogModuleManager: Shutting down and abandoning module ProfilerClient (682)
+[2023.10.27-06.23.20:354][481]LogModuleManager: Shutting down and abandoning module DeviceManager (680)
+[2023.10.27-06.23.20:354][481]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (679)
+[2023.10.27-06.23.20:387][481]LogModuleManager: Shutting down and abandoning module AutomationController (676)
+[2023.10.27-06.23.20:387][481]LogModuleManager: Shutting down and abandoning module AutomationWindow (674)
+[2023.10.27-06.23.20:388][481]LogModuleManager: Shutting down and abandoning module Layers (672)
+[2023.10.27-06.23.20:389][481]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (670)
+[2023.10.27-06.23.20:389][481]LogModuleManager: Shutting down and abandoning module DetailCustomizations (668)
+[2023.10.27-06.23.20:389][481]LogModuleManager: Shutting down and abandoning module PackagesDialog (666)
+[2023.10.27-06.23.20:389][481]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (664)
+[2023.10.27-06.23.20:390][481]LogModuleManager: Shutting down and abandoning module Persona (662)
+[2023.10.27-06.23.20:390][481]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (661)
+[2023.10.27-06.23.20:390][481]LogModuleManager: Shutting down and abandoning module AnimGraph (659)
+[2023.10.27-06.23.20:390][481]LogModuleManager: Shutting down and abandoning module Kismet (656)
+[2023.10.27-06.23.20:404][481]LogModuleManager: Shutting down and abandoning module KismetWidgets (655)
+[2023.10.27-06.23.20:404][481]LogModuleManager: Shutting down and abandoning module GraphEditor (652)
+[2023.10.27-06.23.20:404][481]LogModuleManager: Shutting down and abandoning module StructViewer (650)
+[2023.10.27-06.23.20:404][481]LogModuleManager: Shutting down and abandoning module ClassViewer (648)
+[2023.10.27-06.23.20:407][481]LogModuleManager: Shutting down and abandoning module Toolbox (646)
+[2023.10.27-06.23.20:407][481]LogModuleManager: Shutting down and abandoning module ModuleUI (644)
+[2023.10.27-06.23.20:407][481]LogModuleManager: Shutting down and abandoning module OutputLog (642)
+[2023.10.27-06.23.20:415][481]LogModuleManager: Shutting down and abandoning module GammaUI (640)
+[2023.10.27-06.23.20:415][481]LogModuleManager: Shutting down and abandoning module Documentation (638)
+[2023.10.27-06.23.20:418][481]LogModuleManager: Shutting down and abandoning module LiveCoding (636)
+[2023.10.27-06.23.20:418][481]LogModuleManager: Shutting down and abandoning module LevelSequence (634)
+[2023.10.27-06.23.20:418][481]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (632)
+[2023.10.27-06.23.20:418][481]LogModuleManager: Shutting down and abandoning module MovieScene (630)
+[2023.10.27-06.23.20:419][481]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (628)
+[2023.10.27-06.23.20:419][481]LogModuleManager: Shutting down and abandoning module LauncherPlatform (626)
+[2023.10.27-06.23.20:419][481]LogModuleManager: Shutting down and abandoning module AnalyticsET (624)
+[2023.10.27-06.23.20:419][481]LogModuleManager: Shutting down and abandoning module PortalServices (622)
+[2023.10.27-06.23.20:419][481]LogModuleManager: Shutting down and abandoning module PortalRpc (620)
+[2023.10.27-06.23.20:419][481]LogModuleManager: Shutting down and abandoning module MessagingRpc (618)
+[2023.10.27-06.23.20:419][481]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (616)
+[2023.10.27-06.23.20:419][481]LogModuleManager: Shutting down and abandoning module AudioMixerCore (615)
+[2023.10.27-06.23.20:419][481]LogModuleManager: Shutting down and abandoning module AIModule (612)
+[2023.10.27-06.23.20:420][481]LogModuleManager: Shutting down and abandoning module GameplayDebugger (611)
+[2023.10.27-06.23.20:420][481]LogModuleManager: Shutting down and abandoning module AITestSuite (609)
+[2023.10.27-06.23.20:420][481]LogModuleManager: Shutting down and abandoning module NavigationSystem (607)
+[2023.10.27-06.23.20:420][481]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (604)
+[2023.10.27-06.23.20:426][481]LogModuleManager: Shutting down and abandoning module ProfilerService (602)
+[2023.10.27-06.23.20:541][481]LogModuleManager: Shutting down and abandoning module TaskGraph (600)
+[2023.10.27-06.23.20:542][481]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (598)
+[2023.10.27-06.23.20:542][481]LogModuleManager: Shutting down and abandoning module OculusEditor (596)
+[2023.10.27-06.23.20:543][481]LogModuleManager: Shutting down and abandoning module OculusInput (594)
+[2023.10.27-06.23.20:543][481]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (592)
+[2023.10.27-06.23.20:543][481]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (590)
+[2023.10.27-06.23.20:543][481]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (588)
+[2023.10.27-06.23.20:543][481]LogModuleManager: Shutting down and abandoning module CollectionManager (587)
+[2023.10.27-06.23.20:543][481]LogModuleManager: Shutting down and abandoning module TakeSequencer (584)
+[2023.10.27-06.23.20:543][481]LogModuleManager: Shutting down and abandoning module TakeMovieScene (582)
+[2023.10.27-06.23.20:543][481]LogModuleManager: Shutting down and abandoning module SynthesisEditor (580)
+[2023.10.27-06.23.20:543][481]LogModuleManager: Shutting down and abandoning module Synthesis (578)
+[2023.10.27-06.23.20:544][481]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (576)
+[2023.10.27-06.23.20:544][481]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (574)
+[2023.10.27-06.23.20:544][481]LogModuleManager: Shutting down and abandoning module ScreenshotTools (572)
+[2023.10.27-06.23.20:544][481]LogModuleManager: Shutting down and abandoning module OpenXREditor (570)
+[2023.10.27-06.23.20:544][481]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (568)
+[2023.10.27-06.23.20:544][481]LogModuleManager: Shutting down and abandoning module GooglePAD (566)
+[2023.10.27-06.23.20:544][481]LogModuleManager: Shutting down and abandoning module EditableMesh (564)
+[2023.10.27-06.23.20:544][481]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (562)
+[2023.10.27-06.23.20:544][481]LogModuleManager: Shutting down and abandoning module CableComponent (560)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module AudioCapture (558)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (557)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module AssetTags (554)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (552)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (550)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module AppleImageUtils (548)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module AndroidPermission (546)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (544)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (542)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module TemplateSequence (540)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module MediaCompositing (538)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module ImgMedia (536)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (534)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (532)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (530)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (528)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (526)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (524)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (523)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (520)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (518)
+[2023.10.27-06.23.20:545][481]LogOpenImageDenoise: OIDN shutting down
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (516)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module MotoSynth (514)
+[2023.10.27-06.23.20:545][481]LogModuleManager: Shutting down and abandoning module MeshConversion (512)
+[2023.10.27-06.23.20:546][481]LogModuleManager: Shutting down and abandoning module DynamicMesh (510)
+[2023.10.27-06.23.20:546][481]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (508)
+[2023.10.27-06.23.20:546][481]LogModuleManager: Shutting down and abandoning module GeometricObjects (506)
+[2023.10.27-06.23.20:546][481]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (504)
+[2023.10.27-06.23.20:546][481]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (502)
+[2023.10.27-06.23.20:546][481]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (500)
+[2023.10.27-06.23.20:546][481]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (498)
+[2023.10.27-06.23.20:547][481]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (496)
+[2023.10.27-06.23.20:547][481]LogModuleManager: Shutting down and abandoning module ChaosNiagara (494)
+[2023.10.27-06.23.20:547][481]LogModuleManager: Shutting down and abandoning module FractureEditor (492)
+[2023.10.27-06.23.20:547][481]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (491)
+[2023.10.27-06.23.20:547][481]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (488)
+[2023.10.27-06.23.20:547][481]LogModuleManager: Shutting down and abandoning module AutomationUtils (486)
+[2023.10.27-06.23.20:547][481]LogModuleManager: Shutting down and abandoning module BackChannel (484)
+[2023.10.27-06.23.20:547][481]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (482)
+[2023.10.27-06.23.20:548][481]LogModuleManager: Shutting down and abandoning module AlembicImporter (480)
+[2023.10.27-06.23.20:548][481]LogModuleManager: Shutting down and abandoning module AlembicLibrary (479)
+[2023.10.27-06.23.20:548][481]LogModuleManager: Shutting down and abandoning module GeometryCache (478)
+[2023.10.27-06.23.20:548][481]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (477)
+[2023.10.27-06.23.20:548][481]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (472)
+[2023.10.27-06.23.20:548][481]LogModuleManager: Shutting down and abandoning module PluginBrowser (470)
+[2023.10.27-06.23.20:548][481]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2023.10.27-06.23.20:549][481]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (466)
+[2023.10.27-06.23.20:549][481]LogModuleManager: Shutting down and abandoning module CryptoKeys (464)
+[2023.10.27-06.23.20:549][481]LogModuleManager: Shutting down and abandoning module CurveEditorTools (462)
+[2023.10.27-06.23.20:549][481]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (460)
+[2023.10.27-06.23.20:550][481]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (458)
+[2023.10.27-06.23.20:550][481]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (456)
+[2023.10.27-06.23.20:550][481]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (454)
+[2023.10.27-06.23.20:551][481]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (452)
+[2023.10.27-06.23.20:551][481]LogModuleManager: Shutting down and abandoning module UObjectPlugin (450)
+[2023.10.27-06.23.20:551][481]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (448)
+[2023.10.27-06.23.20:551][481]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (446)
+[2023.10.27-06.23.20:552][481]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (444)
+[2023.10.27-06.23.20:552][481]LogModuleManager: Shutting down and abandoning module PluginUtils (442)
+[2023.10.27-06.23.20:552][481]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (440)
+[2023.10.27-06.23.20:552][481]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (438)
+[2023.10.27-06.23.20:553][481]LogModuleManager: Shutting down and abandoning module GitSourceControl (436)
+[2023.10.27-06.23.20:554][481]LogModuleManager: Shutting down and abandoning module SourceControl (435)
+[2023.10.27-06.23.20:554][481]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (432)
+[2023.10.27-06.23.20:554][481]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (430)
+[2023.10.27-06.23.20:554][481]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (428)
+[2023.10.27-06.23.20:554][481]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (426)
+[2023.10.27-06.23.20:554][481]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (424)
+[2023.10.27-06.23.20:554][481]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (422)
+[2023.10.27-06.23.20:554][481]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (420)
+[2023.10.27-06.23.20:554][481]LogModuleManager: Shutting down and abandoning module LiveLink (418)
+[2023.10.27-06.23.21:213][481]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (416)
+[2023.10.27-06.23.21:213][481]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (414)
+[2023.10.27-06.23.21:213][481]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (412)
+[2023.10.27-06.23.21:215][481]LogModuleManager: Shutting down and abandoning module Paper2DEditor (410)
+[2023.10.27-06.23.21:216][481]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (408)
+[2023.10.27-06.23.21:216][481]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (406)
+[2023.10.27-06.23.21:216][481]LogModuleManager: Shutting down and abandoning module SoundFields (404)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module SignificanceManager (402)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (400)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (398)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (396)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (392)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (390)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (388)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module ActorSequence (386)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2023.10.27-06.23.21:217][481]LogModuleManager: Shutting down and abandoning module TcpMessaging (382)
+[2023.10.27-06.23.21:317][481]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (380)
+[2023.10.27-06.23.21:317][481]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (378)
+[2023.10.27-06.23.21:317][481]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (376)
+[2023.10.27-06.23.21:317][481]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (374)
+[2023.10.27-06.23.21:317][481]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (372)
+[2023.10.27-06.23.21:318][481]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.10.27-06.23.21:318][481]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (370)
+[2023.10.27-06.23.21:318][481]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (368)
+[2023.10.27-06.23.21:318][481]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (366)
+[2023.10.27-06.23.21:318][481]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (364)
+[2023.10.27-06.23.21:318][481]LogModuleManager: Shutting down and abandoning module MagicLeapController (362)
+[2023.10.27-06.23.21:318][481]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (360)
+[2023.10.27-06.23.21:318][481]LogModuleManager: Shutting down and abandoning module MagicLeapAR (358)
+[2023.10.27-06.23.21:318][481]LogModuleManager: Shutting down and abandoning module UdpMessaging (356)
+[2023.10.27-06.23.21:419][481]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (354)
+[2023.10.27-06.23.21:419][481]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (352)
+[2023.10.27-06.23.21:419][481]LogModuleManager: Shutting down and abandoning module FacialAnimation (350)
+[2023.10.27-06.23.21:419][481]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2023.10.27-06.23.21:419][481]LogModuleManager: Shutting down and abandoning module DataValidation (346)
+[2023.10.27-06.23.21:419][481]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (344)
+[2023.10.27-06.23.21:419][481]LogModuleManager: Shutting down and abandoning module Niagara (342)
+[2023.10.27-06.23.21:419][481]LogModuleManager: Shutting down and abandoning module SignalProcessing (341)
+[2023.10.27-06.23.21:419][481]LogModuleManager: Shutting down and abandoning module NiagaraEditor (339)
+[2023.10.27-06.23.21:420][481]LogModuleManager: Shutting down and abandoning module NiagaraCore (336)
+[2023.10.27-06.23.21:420][481]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2023.10.27-06.23.21:421][481]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2023.10.27-06.23.21:423][481]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2023.10.27-06.23.21:424][481]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2023.10.27-06.23.21:424][481]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2023.10.27-06.23.21:424][481]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2023.10.27-06.23.21:425][481]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2023.10.27-06.23.21:425][481]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2023.10.27-06.23.21:425][481]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2023.10.27-06.23.21:425][481]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2023.10.27-06.23.21:425][481]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (314)
+[2023.10.27-06.23.21:425][481]LogModuleManager: Shutting down and abandoning module AnimationSharing (312)
+[2023.10.27-06.23.21:425][481]LogModuleManager: Shutting down and abandoning module GameplayCameras (310)
+[2023.10.27-06.23.21:425][481]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (308)
+[2023.10.27-06.23.21:425][481]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (306)
+[2023.10.27-06.23.21:426][481]LogModuleManager: Shutting down and abandoning module Paper2D (304)
+[2023.10.27-06.23.21:426][481]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (302)
+[2023.10.27-06.23.21:426][481]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (300)
+[2023.10.27-06.23.21:434][481]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (298)
+[2023.10.27-06.23.21:434][481]LogModuleManager: Shutting down and abandoning module PacketHandler (296)
+[2023.10.27-06.23.21:434][481]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (294)
+[2023.10.27-06.23.21:434][481]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (292)
+[2023.10.27-06.23.21:435][481]LogModuleManager: Shutting down and abandoning module MediaAssets (290)
+[2023.10.27-06.23.21:435][481]LogModuleManager: Shutting down and abandoning module Overlay (288)
+[2023.10.27-06.23.21:435][481]LogModuleManager: Shutting down and abandoning module OverlayEditor (287)
+[2023.10.27-06.23.21:435][481]LogModuleManager: Shutting down and abandoning module VREditor (284)
+[2023.10.27-06.23.21:435][481]LogModuleManager: Shutting down and abandoning module StringTableEditor (282)
+[2023.10.27-06.23.21:436][481]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (280)
+[2023.10.27-06.23.21:436][481]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (278)
+[2023.10.27-06.23.21:436][481]LogModuleManager: Shutting down and abandoning module FunctionalTesting (276)
+[2023.10.27-06.23.21:437][481]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (274)
+[2023.10.27-06.23.21:437][481]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (273)
+[2023.10.27-06.23.21:437][481]LogModuleManager: Shutting down and abandoning module UMG (270)
+[2023.10.27-06.23.21:438][481]LogModuleManager: Shutting down and abandoning module UMGEditor (269)
+[2023.10.27-06.23.21:438][481]LogModuleManager: Shutting down and abandoning module MessageLog (267)
+[2023.10.27-06.23.21:438][481]LogModuleManager: Shutting down and abandoning module SlateReflector (262)
+[2023.10.27-06.23.21:440][481]LogModuleManager: Shutting down and abandoning module Slate (260)
+[2023.10.27-06.23.21:440][481]LogModuleManager: Shutting down and abandoning module SlateCore (258)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (256)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module UnrealEd (254)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module MRMesh (252)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (250)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (248)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module XAudio2 (246)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module Networking (244)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module Core (242)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module MaterialEditor (240)
+[2023.10.27-06.23.21:441][481]LogModuleManager: Shutting down and abandoning module MovieSceneTools (238)
+[2023.10.27-06.23.21:442][481]LogModuleManager: Shutting down and abandoning module CurveEditor (237)
+[2023.10.27-06.23.21:442][481]LogModuleManager: Shutting down and abandoning module Sequencer (235)
+[2023.10.27-06.23.21:443][481]LogModuleManager: Shutting down and abandoning module EditorStyle (234)
+[2023.10.27-06.23.21:447][481]LogModuleManager: Shutting down and abandoning module KismetCompiler (230)
+[2023.10.27-06.23.21:447][481]LogModuleManager: Shutting down and abandoning module MeshBuilder (228)
+[2023.10.27-06.23.21:447][481]LogModuleManager: Shutting down and abandoning module MeshUtilities (226)
+[2023.10.27-06.23.21:447][481]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (225)
+[2023.10.27-06.23.21:448][481]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (224)
+[2023.10.27-06.23.21:448][481]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (223)
+[2023.10.27-06.23.21:448][481]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (221)
+[2023.10.27-06.23.21:448][481]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (219)
+[2023.10.27-06.23.21:449][481]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (217)
+[2023.10.27-06.23.21:449][481]LogModuleManager: Shutting down and abandoning module MaterialBaking (213)
+[2023.10.27-06.23.21:449][481]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (208)
+[2023.10.27-06.23.21:449][481]LogModuleManager: Shutting down and abandoning module DerivedDataCache (206)
+[2023.10.27-06.23.21:450][481]LogModuleManager: Shutting down and abandoning module TargetPlatform (204)
+[2023.10.27-06.23.21:450][481]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (203)
+[2023.10.27-06.23.21:451][481]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (201)
+[2023.10.27-06.23.21:452][481]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (199)
+[2023.10.27-06.23.21:452][481]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (197)
+[2023.10.27-06.23.21:453][481]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2023.10.27-06.23.21:453][481]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (193)
+[2023.10.27-06.23.21:453][481]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (191)
+[2023.10.27-06.23.21:453][481]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (189)
+[2023.10.27-06.23.21:453][481]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (187)
+[2023.10.27-06.23.21:453][481]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (185)
+[2023.10.27-06.23.21:453][481]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (183)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (181)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module ImageWrapper (180)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (177)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (175)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (171)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (169)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (165)
+[2023.10.27-06.23.21:454][481]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (163)
+[2023.10.27-06.23.21:462][481]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (161)
+[2023.10.27-06.23.21:462][481]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (159)
+[2023.10.27-06.23.21:462][481]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (157)
+[2023.10.27-06.23.21:462][481]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (155)
+[2023.10.27-06.23.21:462][481]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (153)
+[2023.10.27-06.23.21:471][481]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (151)
+[2023.10.27-06.23.21:471][481]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (149)
+[2023.10.27-06.23.21:471][481]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (147)
+[2023.10.27-06.23.21:471][481]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (145)
+[2023.10.27-06.23.21:471][481]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (143)
+[2023.10.27-06.23.21:471][481]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (141)
+[2023.10.27-06.23.21:471][481]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (139)
+[2023.10.27-06.23.21:471][481]LogModuleManager: Shutting down and abandoning module Messaging (137)
+[2023.10.27-06.23.21:471][481]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (135)
+[2023.10.27-06.23.21:476][481]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (133)
+[2023.10.27-06.23.21:494][481]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (131)
+[2023.10.27-06.23.21:494][481]LogModuleManager: Shutting down and abandoning module D3D11RHI (128)
+[2023.10.27-06.23.21:494][481]LogModuleManager: Shutting down and abandoning module InputCore (126)
+[2023.10.27-06.23.21:494][481]LogModuleManager: Shutting down and abandoning module Settings (124)
+[2023.10.27-06.23.21:494][481]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (122)
+[2023.10.27-06.23.21:495][481]LogModuleManager: Shutting down and abandoning module PhysXCooking (120)
+[2023.10.27-06.23.21:495][481]LogModuleManager: Shutting down and abandoning module Chaos (118)
+[2023.10.27-06.23.21:496][481]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2023.10.27-06.23.21:496][481]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2023.10.27-06.23.21:496][481]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2023.10.27-06.23.21:496][481]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.10.27-06.23.21:497][481]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2023.10.27-06.23.21:497][481]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.10.27-06.23.21:497][481]LogModuleManager: Shutting down and abandoning module OpenXRAR (106)
+[2023.10.27-06.23.21:498][481]LogModuleManager: Shutting down and abandoning module AugmentedReality (105)
+[2023.10.27-06.23.21:498][481]LogModuleManager: Shutting down and abandoning module OpenXRHMD (102)
+[2023.10.27-06.23.21:498][481]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (100)
+[2023.10.27-06.23.21:498][481]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.10.27-06.23.21:498][481]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.10.27-06.23.21:498][481]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2023.10.27-06.23.21:498][481]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2023.10.27-06.23.21:502][481]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2023.10.27-06.23.21:502][481]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2023.10.27-06.23.21:526][481]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2023.10.27-06.23.21:526][481]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.10.27-06.23.21:526][481]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9C39DB6B-455F-C087-427E-93865FE7D6E4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7e36432c4c5cda63ddb924a3b3090e37%7C02f76e55c3f54389b5de5676e885f758%7C1667a1e3-b209-4b5b-86bd-7be0c58230b8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.10.27-06.23.21:526][481]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.10.27-06.23.21:557][481]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2023.10.27-06.23.21:559][481]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2023.10.27-06.23.21:559][481]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.10.27-06.23.21:564][481]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2023.10.27-06.23.21:566][481]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.10.27-06.23.21:567][481]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.10.27-06.23.21:567][481]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.10.27-06.23.21:567][481]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.10.27-06.23.21:567][481]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.10.27-06.23.21:567][481]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.10.27-06.23.21:567][481]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.10.27-06.23.21:567][481]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.10.27-06.23.21:567][481]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.10.27-06.23.21:568][481]LogXGEController: Cleaning working directory: C:/Users/Zyra/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.10.27-06.23.21:568][481]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.10.27-06.23.21:568][481]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.10.27-06.23.21:569][481]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.10.27-06.23.21:570][481]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.10.27-06.23.21:570][481]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.10.27-06.23.21:570][481]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.10.27-06.23.21:570][481]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.10.27-06.23.21:575][481]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.10.27-06.23.21:575][481]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.10.27-06.23.21:575][481]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.10.27-06.23.21:576][481]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.10.27-06.23.21:576][481]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.10.27-06.23.21:576][481]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.10.27-06.23.21:576][481]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.10.27-06.23.21:576][481]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.10.27-06.23.21:576][481]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.10.27-06.23.21:576][481]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.10.27-06.23.21:576][481]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.10.27-06.23.21:713][481]LogD3D11RHI: Shutdown
+[2023.10.27-06.23.21:713][481]LogD3D11RHI: CleanupD3DDevice
+[2023.10.27-06.23.21:721][481]LogExit: Exiting.
+[2023.10.27-06.23.21:732][481]Log file closed, 10/27/23 01:23:21
