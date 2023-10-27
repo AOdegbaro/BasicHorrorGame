@@ -1897,3 +1897,81 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-04.02.36:987][345]SourceControl: Commited [main f8d91de] Added function for set visibility for Flashlight Toggle Input in L1_Playercharacter - AO.
 [2023.10.27-04.02.37:020][346]AssetCheck: New page: Asset Save: L1_PlayerCharacter
 [2023.10.27-04.02.37:020][346]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-04.04.07:806][925]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.27-04.04.07:826][925]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.27-04.04.12:947][233]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.10.27-04.04.12:948][233]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.27-04.04.22:840][806]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.10.27-04.04.22:855][806]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.10.27-04.04.30:467][263]LogContentBrowser: Attempting asset rename: NewMaterial -> M_LightFlicker
+[2023.10.27-04.04.30:566][263]LogContentBrowser: End creating deferred item NewMaterial
+[2023.10.27-04.04.33:884][459]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.10.27-04.04.33:886][459]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 46293AC6D355149473089B4971B19E1020085B0D), compiling. 
+[2023.10.27-04.04.33:907][459]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.10.27-04.04.33:927][459]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.10.27-04.04.34:022][459]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.10.27-04.04.34:191][459]LogMaterial: Display: Missing cached shadermap for M_LightFlicker in PCD3D_SM5, Default, SM5 (DDC key hash: 7F7E6A5FD23F1616702832F22081CB47B36B28C2), compiling. 
+[2023.10.27-04.04.34:216][459]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.10.27-04.04.34:282][460]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.27-04.04.35:185][496]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.27-04.04.35:185][496]LogShaderCompilers: Display: Total job queries 28, among them cache hits 0 (0.00%)
+[2023.10.27-04.04.35:185][496]LogShaderCompilers: Display: Tracking 9 distinct input hashes that result in 4 distinct outputs (44.44%)
+[2023.10.27-04.04.35:185][496]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.10.27-04.04.35:185][496]LogShaderCompilers: Display: ================================================
+[2023.10.27-04.04.35:406][506]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.27-04.04.35:937][525]LogSlate: Window 'M_LightFlicker' being destroyed
+[2023.10.27-04.04.36:435][555]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.27-04.04.36:435][555]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.27-04.04.36:435][555]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.27-04.04.36:435][555]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.27-04.04.37:569][622]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-04.04.37:569][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-04.04.39:771][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LightFlicker" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset" SILENT=true
+[2023.10.27-04.04.39:778][741]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/M_LightFlickerE9CBB2AD49F882AAB89DECBEEA8D6963.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset'
+[2023.10.27-04.04.39:937][741]AssetCheck: New page: Asset Save: M_LightFlicker
+[2023.10.27-04.04.39:937][741]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:312][933]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.04.43:417][933]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-04.04.43:536][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LightFlicker" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset" SILENT=true
+[2023.10.27-04.04.43:539][933]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/M_LightFlickerEDA0DF7D4AE3F31E00B491AA5749BE3A.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker.uasset'
+[2023.10.27-04.05.09:098][933]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-04.05.09:377][933]LogSourceControl: commit successful: [main 9175a50] Added a new Material called M_LightFlicker under folder Materials - AO
+[2023.10.27-04.05.09:431][933]SourceControl: [main 9175a50] Added a new Material called M_LightFlicker under folder Materials - AO
+[2023.10.27-04.05.09:431][933]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-04.05.09:431][933]SourceControl:  create mode 100644 BasicHorrorGame/Content/Materials/M_LightFlicker.uasset
+[2023.10.27-04.05.09:439][933]SourceControl: Commited [main 9175a50] Added a new Material called M_LightFlicker under folder Materials - AO.
+[2023.10.27-04.05.09:466][934]AssetCheck: New page: Asset Save: M_LightFlicker
+[2023.10.27-04.05.09:467][934]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
