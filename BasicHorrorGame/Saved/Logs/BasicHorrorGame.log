@@ -2656,3 +2656,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-04.48.21:465][290]SourceControl: Commited [main c374efd] Made a new child blueprint from BP_InteractionActor and named it BP_InteractionActor_LightSwitch.
 [2023.10.27-04.48.21:495][291]AssetCheck: New page: Asset Save: BP_InteractionActor_LightSwitch
 [2023.10.27-04.48.21:495][291]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_LightSwitch.BP_InteractionActor_LightSwitch
+[2023.10.27-04.51.45:961][110]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor_LightSwitch25092C314449A30D97A8BCA57163BE51.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_LightSwitch.uasset'
+[2023.10.27-04.51.45:979][110]AssetCheck: New page: Asset Save: BP_InteractionActor_LightSwitch
+[2023.10.27-04.51.45:979][110]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_LightSwitch.BP_InteractionActor_LightSwitch
+[2023.10.27-04.52.48:756][453]LogSlate: Took 0.000856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.10.27-04.52.59:140][ 69]BlueprintLog: New page: Compile BP_InteractionActor_LightSwitch
+[2023.10.27-04.52.59:176][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.10.27-04.53.00:113][115]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor_LightSwitchC752CBCB40A840AEBD3218811003C98D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_LightSwitch.uasset'
+[2023.10.27-04.53.00:130][115]AssetCheck: New page: Asset Save: BP_InteractionActor_LightSwitch
+[2023.10.27-04.53.00:131][115]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_LightSwitch.BP_InteractionActor_LightSwitch
+[2023.10.27-04.54.35:951][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-04.54.35:975][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.10.27-04.54.35:990][344]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level12FB7B111468FBB46614CE29C42DAF1A6.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-04.54.36:006][344]LogFileHelpers: Saving map 'Level1' took 0.055
+[2023.10.27-04.54.36:021][344]AssetCheck: New page: Asset Save: Level1
+[2023.10.27-04.54.36:021][344]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:129][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:130][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:130][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:130][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:130][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:130][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:130][518]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.54.39:238][518]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-04.54.39:417][518]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_InteractionActor_LightSwitch6FCA7805411FE8254325C9B52D9B1CC3.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/Actors/Interactions/BP_InteractionActor_LightSwitch.uasset'
+[2023.10.27-04.54.39:418][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-04.54.39:439][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.10.27-04.54.39:450][518]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1D36FE3D94930936255E5BC91878F2607.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-04.54.39:466][518]LogFileHelpers: Saving map 'Level1' took 0.047
+[2023.10.27-04.57.01:806][518]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-04.57.02:156][518]LogSourceControl: commit successful: [main 40a117d] Modified the Static Mesh for BP_InteractionActor_LightSwitch. Placed it in the Level 1 map and made a reference to one of the point lights already placed in the world - AO
+[2023.10.27-04.57.02:279][518]SourceControl: [main 40a117d] Modified the Static Mesh for BP_InteractionActor_LightSwitch. Placed it in the Level 1 map and made a reference to one of the point lights already placed in the world - AO
+[2023.10.27-04.57.02:279][518]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-04.57.02:290][518]SourceControl: Commited [main 40a117d] Modified the Static Mesh for BP_InteractionActor_LightSwitch. Placed it in the Level 1 map and made a reference to one of the point lights already placed in the world - AO.
+[2023.10.27-04.57.02:317][519]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-04.57.02:317][519]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-04.57.02:317][519]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interactions/BP_InteractionActor_LightSwitch.BP_InteractionActor_LightSwitch
