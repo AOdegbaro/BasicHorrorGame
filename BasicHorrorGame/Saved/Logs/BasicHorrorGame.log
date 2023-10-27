@@ -887,3 +887,190 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-03.26.20:693][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.10.27-03.26.21:326][  2]LogSlate: Took 0.000589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.10.27-03.26.21:985][  4]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.27-03.26.59:973][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.27-03.27.00:168][805]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2023.10.27-03.27.00:168][805]Cmd: MAP LOAD FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.27-03.27.00:168][805]LightingResults: New page: Lighting Build
+[2023.10.27-03.27.00:169][805]LoadErrors: New page: Loading map: Level1.umap
+[2023.10.27-03.27.00:172][805]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-03.27.00:172][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-03.27.00:172][805]MapCheck: New page: Map Check
+[2023.10.27-03.27.00:172][805]LightingResults: New page: Lighting Build
+[2023.10.27-03.27.00:177][805]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-03.27.00:192][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.27-03.27.00:193][805]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.10.27-03.27.00:268][805]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.27-03.27.00:268][805]LogAIModule: Creating AISystem for world Level1
+[2023.10.27-03.27.00:275][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.27-03.27.00:286][805]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.27-03.27.00:286][805]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2023.10.27-03.27.00:286][805]LogFileHelpers: Loading map 'Level1' took 0.118
+[2023.10.27-03.28.55:030][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.10.27-03.29.39:989][603]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor2)
+[2023.10.27-03.30.14:647][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2023.10.27-03.30.24:519][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.10.27-03.31.31:295][461]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.10.27-03.31.34:696][664]Cmd: DELETE
+[2023.10.27-03.31.34:696][664]Cmd: ACTOR DELETE
+[2023.10.27-03.31.34:705][664]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2023.10.27-03.31.34:710][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.10.27-03.31.34:712][664]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.10.27-03.31.36:329][761]Cmd: DELETE
+[2023.10.27-03.31.36:329][761]Cmd: ACTOR DELETE
+[2023.10.27-03.31.36:330][761]LogEditorActor: Deleted Actor: SkyLight
+[2023.10.27-03.31.36:335][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.27-03.31.36:336][761]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.10.27-03.31.37:520][832]Cmd: DELETE
+[2023.10.27-03.31.37:520][832]Cmd: ACTOR DELETE
+[2023.10.27-03.31.37:522][832]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2023.10.27-03.31.37:527][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.10.27-03.31.37:527][832]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.10.27-03.31.39:347][941]Cmd: DELETE
+[2023.10.27-03.31.39:347][941]Cmd: ACTOR DELETE
+[2023.10.27-03.31.39:348][941]LogEditorActor: Deleted Actor: AtmosphericFog
+[2023.10.27-03.31.39:354][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.10.27-03.31.39:354][941]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.10.27-03.31.41:210][ 52]Cmd: DELETE
+[2023.10.27-03.31.41:211][ 52]Cmd: ACTOR DELETE
+[2023.10.27-03.31.41:212][ 52]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.10.27-03.31.41:217][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.10.27-03.31.41:218][ 52]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.10.27-03.32.44:420][977]MapCheck: New page: Map Check
+[2023.10.27-03.32.44:439][977]LightingResults: New page: Lighting Build - Oct 26, 2023, 5:32:44 PM
+[2023.10.27-03.32.44:586][977]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.10.27-03.32.45:176][977]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.10.27-03.32.45:192][977]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.10.27-03.32.46:234][977]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.10.27-03.32.46:234][977]LogSwarmInterface: [TryOpenConnection] Local Process ID is 37852
+[2023.10.27-03.32.49:368][977]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.10.27-03.32.49:368][977]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.10.27-03.32.49:368][977]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.10.27-03.32.49:368][977]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.10.27-03.32.49:368][977]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.10.27-03.32.49:368][977]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.10.27-03.32.49:516][977]LogEditorBuildUtils: Build time 0:05
+[2023.10.27-03.32.49:523][977]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 566327371A74C7967063283C449C5ED092DC16D9), compiling. 
+[2023.10.27-03.32.49:531][977]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.10.27-03.32.49:532][977]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 40E5401A258115C121855648548B132F6B798F34), compiling. 
+[2023.10.27-03.32.49:536][977]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.10.27-03.32.49:551][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.10.27-03.32.49:551][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.10.27-03.32.49:551][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.10.27-03.32.49:551][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.10.27-03.32.49:551][978]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.10.27-03.32.49:558][978]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 09BE4C7A08E9CF5953A86E83F05117832C1466B9), compiling. Is special engine material.
+[2023.10.27-03.32.49:563][978]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.10.27-03.32.49:566][978]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A2E71CE4DF26E5630E073D9FE8BE1AFD709D796A), compiling. Is special engine material.
+[2023.10.27-03.32.49:569][978]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 4 distinct outputs (50.00%)
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.10.27-03.32.51:017][979]LogShaderCompilers: Display: ================================================
+[2023.10.27-03.32.51:154][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.10.27-03.32.53:496][ 49]Job is a success!
+[2023.10.27-03.32.53:586][ 50]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.10.27-03.32.53:586][ 50]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.10.27-03.32.53:586][ 50]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2023.10.27-03.32.53:586][ 50]LogVolumetricLightmapImport:      Bricks at depth
+[2023.10.27-03.32.53:586][ 50]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2023.10.27-03.32.53:586][ 50]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2023.10.27-03.32.53:586][ 50]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2023.10.27-03.32.53:586][ 50]LogVolumetricLightmapImport:      Bricks in each level
+[2023.10.27-03.32.53:586][ 50]LogVolumetricLightmapImport:          Level1 			 2 bricks 	 100.0% (Persistent Level)
+[2023.10.27-03.32.53:631][ 50]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2023.10.27-03.32.53:631][ 50]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2023.10.27-03.32.53:631][ 50]Lightmass on MSI: 858 ms total, 157 ms importing, 29 ms setup, 64 ms photons, 585 ms processing, 0 ms extra exporting [6/6 mappings]. Threads: 6.43 sec total, 440 ms processing.
+[2023.10.27-03.32.53:631][ 50]LogStaticLightingSystem: Level1_BuiltData storing lightmap data for 6 meshes in 1 LightmapResourceClusters (6.0 Meshes per cluster).
+[2023.10.27-03.32.53:638][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.27-03.32.53:670][ 50]LogStaticLightingSystem: Illumination: 9.18 sec (16 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2023.10.27-03.32.53:671][ 50]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.10.27-03.32.53:671][ 50]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.10.27-03.32.54:378][ 50]DumpUnbuiltLightIteractions
+[2023.10.27-03.32.54:378][ 50]Lights with unbuilt interactions: 0
+[2023.10.27-03.32.54:378][ 50]
+[2023.10.27-03.32.54:378][ 50]Primitives with unbuilt interactions: 0
+[2023.10.27-03.32.54:444][ 51]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.10.27-03.32.54:444][ 51]MapCheck: New page: Level1 - Oct 26, 2023, 5:32:54 PM
+[2023.10.27-03.32.54:444][ 51]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.641ms to complete.
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:769][536]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.02:890][536]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-03.33.02:893][536]EditorErrors: Warning: No assets to check in!
+[2023.10.27-03.33.03:924][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-03.33.03:931][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.10.27-03.33.03:945][583]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level174EC904F45899B58F2684D80BF078CA3.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-03.33.03:962][583]LogFileHelpers: Saving map 'Level1' took 0.038
+[2023.10.27-03.33.03:962][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2023.10.27-03.33.03:971][583]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1_BuiltData17B567D4483573E3FB7E0FAFAE7F48F4.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1_BuiltData.uasset'
+[2023.10.27-03.33.03:991][583]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-03.33.03:991][583]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_BuiltData.Level1_BuiltData
+[2023.10.27-03.33.03:991][583]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:238][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:239][769]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.33.07:351][769]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-03.33.07:492][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-03.33.07:499][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.27-03.33.07:512][769]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1152A4BD649FF3391A00965BBA1DCB78D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-03.33.07:529][769]LogFileHelpers: Saving map 'Level1' took 0.036
+[2023.10.27-03.33.07:529][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2023.10.27-03.33.07:537][769]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1_BuiltData59D1E27D4F3704EF1373A5A2CEBEDEC4.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1_BuiltData.uasset'
+[2023.10.27-03.33.36:865][769]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-03.33.37:137][769]LogSourceControl: commit successful: [main abb0967] Removed Sky lighting source in Level 1 map to make flash light mechanic - AO
+[2023.10.27-03.33.37:208][769]SourceControl: [main abb0967] Removed Sky lighting source in Level 1 map to make flash light mechanic - AO
+[2023.10.27-03.33.37:208][769]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-03.33.37:219][769]SourceControl: Commited [main abb0967] Removed Sky lighting source in Level 1 map to make flash light mechanic - AO.
+[2023.10.27-03.33.37:258][770]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-03.33.37:258][770]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_BuiltData.Level1_BuiltData
+[2023.10.27-03.33.37:258][770]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
