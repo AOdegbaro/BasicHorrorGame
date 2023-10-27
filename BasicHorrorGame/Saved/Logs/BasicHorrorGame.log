@@ -2255,3 +2255,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-04.13.55:571][510]AssetCheck: New page: Asset Save: multiple assets
 [2023.10.27-04.13.55:571][510]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2023.10.27-04.13.55:572][510]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_LightFlicker_Inst.M_LightFlicker_Inst
+[2023.10.27-04.14.32:359][894]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_LightFlicker_Inst.M_LightFlicker_Inst
+[2023.10.27-04.14.32:501][894]LogRenderer: Reallocating scene render targets to support 1336x912 Format 10 NumSamples 1 (Frame:1).
+[2023.10.27-04.14.37:148][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LightFlicker_Inst" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker_Inst.uasset" SILENT=true
+[2023.10.27-04.14.37:164][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.10.27-04.14.37:181][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.27-04.14.37:187][162]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/M_LightFlicker_Inst2C5F7DC843D5E2A5DD569CB8B432381C.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker_Inst.uasset'
+[2023.10.27-04.14.37:205][162]AssetCheck: New page: Asset Save: M_LightFlicker_Inst
+[2023.10.27-04.14.37:205][162]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_LightFlicker_Inst.M_LightFlicker_Inst
+[2023.10.27-04.16.03:372][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-04.16.03:389][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.10.27-04.16.03:404][956]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level15841B2364919FB51B9B27684D601E20D.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-04.16.03:418][956]LogFileHelpers: Saving map 'Level1' took 0.047
+[2023.10.27-04.16.03:435][956]AssetCheck: New page: Asset Save: Level1
+[2023.10.27-04.16.03:435][956]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:446][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:447][126]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.16.06:555][126]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-04.16.06:733][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-04.16.06:753][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.27-04.16.06:767][126]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1F444E7914A4F614D2043AC9D678850A3.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-04.16.06:782][126]LogFileHelpers: Saving map 'Level1' took 0.049
+[2023.10.27-04.16.06:783][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_LightFlicker_Inst" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker_Inst.uasset" SILENT=true
+[2023.10.27-04.16.06:798][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.27-04.16.06:813][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.27-04.16.06:816][126]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/M_LightFlicker_Inst2CF01A2D4BA241D258516390A6F0643F.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Materials/M_LightFlicker_Inst.uasset'
+[2023.10.27-04.16.52:887][126]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-04.16.53:215][126]LogSourceControl: commit successful: [main 76d84b7] Added the M_LightFlicker_Inst to the Light Function Material of the point lights added to Level 1 map - AO
+[2023.10.27-04.16.53:325][126]SourceControl: [main 76d84b7] Added the M_LightFlicker_Inst to the Light Function Material of the point lights added to Level 1 map - AO
+[2023.10.27-04.16.53:325][126]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-04.16.53:333][126]SourceControl: Commited [main 76d84b7] Added the M_LightFlicker_Inst to the Light Function Material of the point lights added to Level 1 map - AO.
+[2023.10.27-04.16.53:359][127]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-04.16.53:359][127]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-04.16.53:359][127]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_LightFlicker_Inst.M_LightFlicker_Inst
