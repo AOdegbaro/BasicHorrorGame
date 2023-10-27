@@ -2464,3 +2464,150 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-04.26.31:688][760]SourceControl: Commited [main ea4e1f9] Set default intensity of the Point Light in the Construct Script - AO.
 [2023.10.27-04.26.31:717][761]AssetCheck: New page: Asset Save: BP_FlickerLight
 [2023.10.27-04.26.31:717][761]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.29.50:786][688]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.29.50:826][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.10.27-04.30.19:587][411]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.30.19:619][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.10.27-04.30.20:510][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.30.20:520][457]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLight7C5C0B724D7176A09D228AB1309B5F9C.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.30.20:537][457]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.30.20:537][457]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.32.38:707][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.10.27-04.32.38:710][400]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.026
+[2023.10.27-04.32.38:711][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FlickerLight] ([2] browsable assets)...
+[2023.10.27-04.32.38:711][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FlickerLight]
+[2023.10.27-04.32.38:719][400]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLight_Auto217C46BEB4F42C8DBD08104AB181DFF9E.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Autosaves/Game/Blueprints/BP_FlickerLight_Auto2.uasset'
+[2023.10.27-04.32.38:720][400]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.10.27-04.34.40:001][393]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.34.40:035][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.10.27-04.34.40:868][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.34.40:881][434]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLightACA57258492943922327E983DDFC0F36.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.34.40:897][434]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.34.40:897][434]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.35.07:785][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.35.07:798][579]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLight5A5CCFCA48BFDE418E619D97EC1A578C.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.35.07:813][579]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.35.07:813][579]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.35.09:196][662]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.35.09:229][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.10.27-04.35.10:567][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.35.10:579][733]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLight3A95C01A4DB846B13F5053917CECCF83.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.35.10:600][733]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.35.10:600][733]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.37.02:849][654]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.37.02:884][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.10.27-04.37.03:787][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.37.03:801][698]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLightCABD1BEF4FEDD8EE83ECEBA58850E74B.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.37.03:816][698]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.37.03:816][698]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.39.17:335][934]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.39.17:369][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.10.27-04.40.41:943][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.40.41:956][993]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLight503498764E81E75B66E598929ADB9A22.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.40.41:974][993]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.40.41:974][993]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.42.55:964][ 12]BlueprintLog: New page: Compile BP_FlickerLight
+[2023.10.27-04.42.55:996][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.10.27-04.42.57:013][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.42.57:026][ 62]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLightC008A7F3411B4BC37FE06884CBA99088.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.42.57:041][ 62]AssetCheck: New page: Asset Save: BP_FlickerLight
+[2023.10.27-04.42.57:041][ 62]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
+[2023.10.27-04.43.18:323][335]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.27-04.43.18:337][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-04.43.18:337][335]PIE: New page: PIE session: Level1 (Oct 26, 2023, 6:43:18 PM)
+[2023.10.27-04.43.18:337][335]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-04.43.18:339][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002384s)
+[2023.10.27-04.43.18:340][335]LogAIModule: Creating AISystem for world Level1
+[2023.10.27-04.43.18:340][335]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2023.10.27-04.43.18:340][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003564s)
+[2023.10.27-04.43.18:362][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.10.27-04.43.18:363][335]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.10.27-04.43.18:363][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-04.43.18:363][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-04.43.18:363][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-04.43.18:363][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-04.43.18:363][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-04.43.18:363][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.27-04.43.18:364][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-04.43.18:364][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-04.43.18:364][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-04.43.18:364][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-04.43.18:364][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-04.43.18:364][335]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.27-04.43.18:367][335]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.27-04.43.18:367][335]LogAudioMixer: Display: 1: FrontRight
+[2023.10.27-04.43.18:393][335]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.27-04.43.18:394][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-04.43.18:394][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-04.43.18:394][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-04.43.18:395][335]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.27-04.43.18:395][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.27-04.43.18:395][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.27-04.43.18:396][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.27-04.43.18:396][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.27-04.43.18:396][335]LogInit: FAudioDevice initialized.
+[2023.10.27-04.43.18:396][335]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2023.10.27-04.43.18:403][335]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.27-04.43.18:404][335]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.10.26-23.43.18
+[2023.10.27-04.43.18:405][335]LogWorld: Bringing up level for play took: 0.000872
+[2023.10.27-04.43.18:405][335]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.10.27-04.43.18:417][335]PIE: Server logged in
+[2023.10.27-04.43.18:417][335]PIE: Play in editor total start time 0.087 seconds.
+[2023.10.27-04.43.38:902][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-04.43.38:902][558]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.27-04.43.38:902][558]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-04.43.38:902][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-04.43.38:913][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-04.43.38:921][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-04.43.38:939][558]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-04.43.38:939][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-04.43.38:940][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.27-04.43.38:955][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-04.43.38:957][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.27-04.43.38:984][559]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.10.27-04.43.42:021][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-04.43.42:042][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.10.27-04.43.42:054][733]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level1D99A1EAA4B7BEBE1FF000E84BBE4B711.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-04.43.42:069][733]LogFileHelpers: Saving map 'Level1' took 0.048
+[2023.10.27-04.43.42:089][733]AssetCheck: New page: Asset Save: Level1
+[2023.10.27-04.43.42:089][733]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:279][914]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-04.43.45:389][914]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-04.43.45:556][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FlickerLight" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset" SILENT=true
+[2023.10.27-04.43.45:569][914]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/BP_FlickerLight6A51E9724C0C9BE51AFC8887A5DE2D81.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Blueprints/BP_FlickerLight.uasset'
+[2023.10.27-04.43.45:570][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.27-04.43.45:595][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.10.27-04.43.45:606][914]LogSavePackage: Moving '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Level19F0F7EFD4A2D308C71700BB800B65EB7.tmp' to '../../../../../Unreal/BasicHorrorGame/BasicHorrorGame/Content/Maps/Level1.umap'
+[2023.10.27-04.43.45:620][914]LogFileHelpers: Saving map 'Level1' took 0.050
+[2023.10.27-04.44.22:886][914]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-04.44.23:227][914]LogSourceControl: commit successful: [main 980d909] Added the function for beging play for BP_FlickerLight and added it to Level 1 Map - AO
+[2023.10.27-04.44.23:349][914]SourceControl: [main 980d909] Added the function for beging play for BP_FlickerLight and added it to Level 1 Map - AO
+[2023.10.27-04.44.23:349][914]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-04.44.23:357][914]SourceControl: Commited [main 980d909] Added the function for beging play for BP_FlickerLight and added it to Level 1 Map - AO.
+[2023.10.27-04.44.23:391][915]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-04.44.23:391][915]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2023.10.27-04.44.23:391][915]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickerLight.BP_FlickerLight
