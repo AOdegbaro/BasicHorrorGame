@@ -1395,3 +1395,141 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.27-03.41.42:522][385]SourceControl: Commited [main 624ce73] Added a spotlight to L1_PlayerCharacter - AO.
 [2023.10.27-03.41.42:546][386]AssetCheck: New page: Asset Save: L1_PlayerCharacter
 [2023.10.27-03.41.42:546][386]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level1/L1_PlayerCharacter.L1_PlayerCharacter
+[2023.10.27-03.44.07:723][ 18]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Unreal/BasicHorrorGame/BasicHorrorGame/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.27-03.44.07:723][ 18]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Unreal/BasicHorrorGame/BasicHorrorGame/Content/Developers/Zyra/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.27-03.44.07:723][ 18]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Unreal/BasicHorrorGame/BasicHorrorGame/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Content: 'D:/Zyra/UE_4.27/Engine/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:329][252]SourceControl: fatal: D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal/BasicHorrorGame'
+[2023.10.27-03.45.44:439][252]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'D:/Zyra/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2023.10.27-03.46.05:047][252]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.27-03.46.10:065][252]LogSourceControl: commit successful: [main 34bf218] Added LightProfilePack to project - AO
+[2023.10.27-03.46.10:181][252]SourceControl: [main 34bf218] Added LightProfilePack to project - AO
+[2023.10.27-03.46.10:181][252]SourceControl:  50 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/6Wing.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Arrow_Star.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Arrow_Up.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam2.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam3.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam4.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam5.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam6.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam7.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam8.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Bow1.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Capped1.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Capped2.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam1.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam2.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam3.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam4.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam5.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam6.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam7.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered1.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered2.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered3.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered4.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered5.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/SpotLight1.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/SpotLight2.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spotlight3.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spotlight4.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spreadout1.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spreadout2.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spreadout3.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spreadout4.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Bow.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst2.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst3.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst4.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst5.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst6.uasset
+[2023.10.27-03.46.10:181][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst7.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst8.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/VWing.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/VWing2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Wall_Boomerang.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Wall_InvertedV.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Wall_TStar.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/XStar.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Overview.umap
+[2023.10.27-03.46.10:182][252]SourceControl: [main 87ce5b7] Added LightProfilePack to project - AO
+[2023.10.27-03.46.10:182][252]SourceControl:  Date: Thu Oct 26 22:46:09 2023 -0500
+[2023.10.27-03.46.10:182][252]SourceControl:  51 files changed, 0 insertions(+), 0 deletions(-)
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/6Wing.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Arrow_Star.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Arrow_Up.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam3.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam4.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam5.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam6.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam7.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Beam8.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Bow1.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Capped1.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Capped2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam1.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam3.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam4.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam5.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam6.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/LEDBeam7.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered1.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered3.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered4.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Shattered5.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/SpotLight1.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/SpotLight2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spotlight3.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spotlight4.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spreadout1.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spreadout2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spreadout3.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Spreadout4.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Bow.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst3.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst4.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst5.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst6.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst7.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Star_Burst8.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/VWing.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/VWing2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Wall_Boomerang.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Wall_InvertedV.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/Wall_TStar.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/XStar.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Lighting/Profiles/XStar2.uasset
+[2023.10.27-03.46.10:182][252]SourceControl:  create mode 100644 BasicHorrorGame/Content/LightProfilePack/Overview.umap
+[2023.10.27-03.46.10:196][252]SourceControl: Commited [main 34bf218] Added LightProfilePack to project - AO.
